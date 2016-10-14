@@ -1,0 +1,3714 @@
+Both_S->NP VP
+Both_PP->IN NP
+Both_DT->the
+Both_NP->DT NN
+Both_NP->NP PP
+Both_,->,
+Both_VB->be
+Both_NP->NN
+Both_NP->PRP
+Both_TO->to
+Both_S->VP
+Both_DT->a
+Both_IN->of
+Both_VP->VB NP
+Both_IN->in
+Both_CC->and
+Both_VP->TO VP
+Both_ADVP->RB
+Both_NP->JJ NN
+Both_NP->DT JJ NN
+Both_SBAR->IN S
+Both_VP->MD VP
+Both_NP->NNP
+Both_$->$
+Both_NP->NNP NNP
+Both_PP->TO NP
+Both_PRP->he
+Both_VBP->have
+Both_VP->VB VP
+Both_IN->for
+Both_NP->QP
+Both_NP->CD NN
+Both_VP->VBP NP
+Both_POS->"s"
+Both_NN->%
+Both_QP->$ CD CD
+Both_PRP->it
+Both_PRP->they
+Both_NP->NN NN
+Both_CD->million
+Both_IN->from
+Both_IN->that
+Both_RB->not
+Both_VP->VB S
+Both_VP->VBP VP
+Both_MD->will
+Both_VP->VB NP PP
+Both_VP->VB PP
+Both_NP->CD
+Both_``->``
+Both_NNP->Mr.
+Both_IN->on
+Both_SBAR->S
+Both_IN->at
+Both_NP->NP SBAR
+Both_NP->DT NN NN
+Both_SBAR->WHNP S
+Both_MD->would
+Both_NN->year
+Both_NN->share
+Both_PRP->we
+Both_IN->with
+Both_VP->VB ADJP
+Both_VP->VBP SBAR
+Both_IN->by
+Both_NN->market
+Both_PRP$->its
+Both_NN->company
+Both_->""
+Both_PRP->I
+Both_VP->VBP S
+Both_NP->NNP POS
+Both_IN->as
+Both_VBP->say
+Both_NP->NP NN
+Both_NN->stock
+Both_PRP->she
+Both_WHNP->WDT
+Both_NN->price
+Both_PRT->RP
+Both_NP->NP CC NP
+Both_S->PP , NP VP
+Both_ADJP->JJ
+Both_NP->NP NP
+Both_CD->billion
+Both_NP->DT NNP
+Both_VP->VB
+Both_NN->bond
+Both_CC->or
+Both_NN->sale
+Both_NP->$ CD
+Both_NN->rate
+Both_DT->this
+Both_VP->VB SBAR
+Both_NNP->U.S.
+Both_CC->but
+Both_NP->QP NN
+Both_PRP->you
+Both_NP->DT
+Both_IN->about
+Both_NN->trading
+Both_PP->IN S
+Both_NN->bank
+Both_ADJP->RB JJ
+Both_VBP->do
+Both_VB->have
+Both_NN->fund
+Both_NP->NNP NNP NNP
+Both_WHNP->WP
+Both_VP->VB NP PP PP
+Both_WHADVP->WRB
+Both_VP->VBP PP
+Both_SBAR->WHADVP S
+Both_NN->cent
+Both_NP->DT NN POS
+Both_NP->NP , NP ,
+Both_NN->quarter
+Both_NNS->earnings
+Both_NN->program
+Both_MD->can
+Both_VP->VP CC VP
+Both_NP->DT JJ NN NN
+Both_NP->DT NNP NN
+Both_NP->NP , NP
+Both_JJ->new
+Both_NP->DT ADJP NN
+Both_NN->bill
+Both_NP->NP PP PP
+Both_IN->than
+Both_NN->business
+Both_QP->CD CD
+Both_IN->if
+Both_WDT->that
+Both_VP->VBP RB VP
+Both_DT->some
+Both_VP->VBP
+Both_NN->government
+Both_S->NP ADVP VP
+Both_ADJP->CD NN
+Both_NNS->people
+Both_NN->computer
+Both_MD->could
+Both_NN->investor
+Both_NP->NNP NNP POS
+Both_NP->JJ NN NN
+Both_NN->loan
+Both_NP->NNP NN
+Both_NN->firm
+Both_NN->order
+Both_NNS->yen
+Both_JJ->other
+Both_NNP->Jaguar
+Both_NN->president
+Both_VB->sell
+Both_NN->contract
+Both_NP->NNS
+Both_NN->loss
+Both_WP->who
+Both_NN->magazine
+Both_CD->one
+Both_NP->PRP$ NN
+Both_NN->profit
+Both_NN->plant
+Both_NN->week
+Both_NN->interest
+Both_EX->there
+Both_NNP->New
+Both_NP->EX
+Both_MD->may
+Both_NN->index
+Both_VP->VBP NP PP
+Both_NN->car
+Both_WRB->when
+Both_NN->tax
+Both_CD->two
+Both_DT->that
+Both_NN->state
+Both_NN->plan
+Both_NP->JJ JJ NN
+Both_NN->point
+Both_NN->revenue
+Both_WDT->which
+Both_NN->yield
+Both_NP->NNP CD
+Both_IN->after
+Both_NN->issue
+Both_NN->product
+Both_NNP->Warner
+Both_NP->DT NNP NNP
+Both_NN->system
+Both_NNP->Noriega
+Both_NNP->Japan
+Both_NNP->Bush
+Both_NN->debt
+Both_NNP->UAL
+Both_NN->group
+Both_NN->month
+Both_NP->QP NNS
+Both_VB->rise
+Both_NNP->Ford
+Both_NN->junk
+Both_S->SBAR , NP VP
+Both_NN->union
+Both_NN->charge
+Both_JJR->more
+Both_ADJP->JJ PP
+Both_NN->industry
+Both_ADVP->RB PP
+Both_VB->pay
+Both_RB->up
+Both_NN->suit
+Both_VB->buy
+Both_NNP->Corp.
+Both_NN->ad
+Both_NNP->Fed
+Both_NN->growth
+Both_NN->agency
+Both_IN->into
+Both_NN->dollar
+Both_NN->operation
+Both_VP->VB NP NP
+Both_NN->brand
+Both_RP->up
+Both_NNP->IBM
+Both_RB->only
+Both_NN->trade
+Both_VB->go
+Both_NP->NP , CC NP ,
+Both_NN->time
+Both_JJ->such
+Both_NN->exchange
+Both_NN->security
+Both_NN->asset
+Both_NN->pilot
+Both_NN->analyst
+Both_VB->yield
+Both_NN->investment
+Both_NNP->York
+Both_NN->office
+Both_NP->DT NNPS
+Both_NN->bid
+Both_PRP$->my
+Both_NN->trader
+Both_NP->DT JJ JJ NN
+Both_NN->case
+Both_NN->unit
+Both_NP->NP , CC NP
+Both_NNP->Congress
+Both_NN->law
+Both_NN->income
+Both_NNP->GM
+Both_CC->&
+Both_S->S , CC S
+Both_RB->even
+Both_NN->drug
+Both_NN->judge
+Both_NN->value
+Both_NN->cash
+Both_VP->MD RB VP
+Both_NN->oil
+Both_JJ->last
+Both_IN->because
+Both_NN->policy
+Both_NN->production
+Both_NN->manager
+Both_VP->VB ADVP
+Both_ADJP->QP
+Both_NNP->Nissan
+Both_NN->country
+Both_NP->NP JJ NN
+Both_VB->make
+Both_NN->damage
+Both_QP->IN CD
+Both_NNP->Friday
+Both_NN->gain
+Both_JJ->federal
+Both_NN->gene
+Both_VB->get
+Both_NN->insurance
+Both_VBP->expect
+Both_NN->stake
+Both_WP->what
+Both_DT->those
+Both_NN->japanese
+Both_NN->house
+Both_NN->return
+Both_DT->all
+Both_NN->import
+Both_NN->money
+Both_NN->cancer
+Both_VP->VBN PP
+Both_NNP->Kidder
+Both_RB->just
+Both_NNP->Co.
+Both_NN->note
+Both_NN->cost
+Both_POS->""
+Both_S->ADVP , NP VP
+Both_IN->under
+Both_VP->VB PP PP
+Both_NN->shareholder
+Both_JJ->average
+Both_VB->close
+Both_JJ->next
+Both_NP->JJR NN
+Both_RBR->more
+Both_ADJP->JJ S
+Both_NP->NP VP
+Both_NN->gas
+Both_NN->store
+Both_JJ->common
+Both_NNP->Eastern
+Both_NN->city
+Both_JJ->black
+Both_NNP->Treasury
+Both_NN->official
+Both_JJ->many
+Both_VBP->fall
+Both_NP->NP ADJP
+Both_CD->1989
+Both_NN->team
+Both_JJ->soviet
+Both_NN->woman
+Both_JJ->chief
+Both_NP->PRP NN
+Both_NN->vice
+Both_NNP->Peters
+Both_NN->export
+Both_NN->deal
+Both_VP->MD ADVP VP
+Both_VBP->include
+Both_NNP->House
+Both_NN->gold
+Both_NP->NNP CD , CD
+Both_NN->abortion
+Both_JJ->due
+Both_NP->DT CD NN
+Both_NN->officer
+Both_NN->building
+Both_DT->any
+Both_NN->ton
+Both_NN->machine
+Both_NN->arbitrage
+Both_JJ->political
+Both_NNP->East
+Both_NP->NN CC NN
+Both_QP->RB CD
+Both_VP->VB PRT NP
+Both_NN->management
+Both_NN->court
+Both_VB->take
+Both_VBP->want
+Both_ADVP->RB NP PP
+Both_JJ->major
+Both_JJ->economic
+Both_CD->15
+Both_VB->do
+Both_:->:
+Both_NNS->rights
+Both_NN->worker
+Both_NN->day
+Both_NN->dividend
+Both_NN->base
+Both_NN->agreement
+Both_NNP->Germany
+Both_NN->life
+Both_NN->executive
+Both_NNP->CBS
+Both_RB->now
+Both_JJ->financial
+Both_NNP->Poland
+Both_NN->ounce
+Both_NNP->China
+Both_NP->CD JJ NN
+Both_NN->student
+Both_ADVP->RB NP
+Both_MD->should
+Both_NN->consumer
+Both_NN->offer
+Both_NN->proposal
+Both_NN->school
+Both_NNP->IRS
+Both_NN->capital
+Both_NN->reserve
+Both_NN->home
+Both_NN->line
+Both_RB->also
+Both_NP->NP , SBAR
+Both_NN->volume
+Both_NN->leader
+Both_NP->NP , ADVP
+Both_NN->lawyer
+Both_NN->name
+Both_NNP->Krenz
+Both_NN->average
+Both_DT->no
+Both_NN->problem
+Both_ADJP->JJ NP
+Both_NN->venture
+Both_JJ->late
+Both_NN->estimate
+Both_CD->10
+Both_NNP->Sony
+Both_NN->board
+Both_:->--
+Both_NN->holder
+Both_NN->steel
+Both_NN->statement
+Both_NNP->LIN
+Both_NNP->Arizona
+Both_VB->expect
+Both_VBP->sell
+Both_CD->1
+Both_NP->JJ NNP
+Both_NNP->Bay
+Both_NN->project
+Both_NN->equity
+Both_NN->copper
+Both_NP->NP NN NN
+Both_NNP->Kong
+Both_NN->end
+Both_NNP->Inc.
+Both_NNP->Morgan
+Both_JJ->small
+Both_NN->room
+Both_JJ->foreign
+Both_NN->age
+Both_NN->number
+Both_NN->employee
+Both_DT->each
+Both_NNP->Hong
+Both_NN->cd
+Both_PP->IN NP NP
+Both_NN->future
+Both_NN->administration
+Both_NN->part
+Both_NP->NNP CC NNP
+Both_NN->paper
+Both_NN->risk
+Both_IN->while
+Both_NNP->Federal
+Both_VBP->rise
+Both_RB->then
+Both_NN->takeover
+Both_NN->deficit
+Both_NN->client
+Both_DT->these
+Both_NN->truck
+Both_NNP->Nov.
+Both_NN->show
+Both_NN->pound
+Both_NN->insurer
+Both_NN->party
+Both_RB->still
+Both_NN->customer
+Both_NN->recession
+Both_NNP->First
+Both_NNP->Bank
+Both_NN->test
+Both_NN->change
+Both_NP->CD NN NN
+Both_JJ->japanese
+Both_JJ->personal
+Both_NP->NNPS
+Both_NNP->Paribas
+Both_QP->IN $ CD CD
+Both_NNP->McCaw
+Both_NNP->B.A.T
+Both_NP->NP , SBAR ,
+Both_JJ->real
+Both_NN->bike
+Both_NN->service
+Both_NN->transaction
+Both_RP->out
+Both_NN->election
+Both_NNP->Ms.
+Both_NNP->Texas
+Both_NN->period
+Both_NNS->goods
+Both_NN->power
+Both_NNP->September
+Both_VBP->make
+Both_NN->package
+Both_RB->as
+Both_NN->study
+Both_NN->maturity
+Both_JJ->second
+Both_NN->rule
+Both_NN->member
+Both_ADVP->RB RB
+Both_IN->over
+Both_CD->20
+Both_RB->down
+Both_NN->advertising
+Both_QP->CD TO CD
+Both_NN->equipment
+Both_ADVP->NP RB
+Both_NN->offering
+Both_NN->family
+Both_NN->franc
+Both_JJ->first
+Both_JJ->net
+Both_NN->increase
+Both_NN->yesterday
+Both_VP->VB NP S
+Both_CD->1988
+Both_NNP->Drexel
+Both_VB->reduce
+Both_NN->intelligence
+Both_CD->nine
+Both_NN->inflation
+Both_NN->district
+Both_NN->letter
+Both_NNP->California
+Both_NN->pension
+Both_NNP->Gorbachev
+Both_NP->NN CD
+Both_NN->buy-out
+Both_NN->word
+Both_NN->chairman
+Both_JJ->short
+Both_VP->VB NP SBAR
+Both_PP->IN PP
+Both_NNP->Sears
+Both_CD->9
+Both_NN->commission
+Both_VP->VB ADJP PP
+Both_NN->brain
+Both_RB->ago
+Both_NN->credit
+Both_NNP->August
+Both_IN->during
+Both_NN->apple
+Both_NN->work
+Both_NNP->HUD
+Both_NN->warrant
+Both_NNP->Dinkins
+Both_VP->VB NP ADVP
+Both_NN->station
+Both_NN->level
+Both_NN->net
+Both_NN->ministry
+Both_NN->airline
+Both_NN->mark
+Both_JJ->public
+Both_NN->child
+Both_NN->information
+Both_NN->claim
+Both_NN->option
+Both_NNP->Merksamer
+Both_NNP->ANC
+Both_NNP->Board
+Both_NNP->Wall
+Both_NP->NN NN NN
+Both_NN->planner
+Both_NN->acquisition
+Both_VP->VB ADVP PP
+Both_NN->default
+Both_IN->through
+Both_NN->water
+Both_NN->settlement
+Both_NN->provision
+Both_NNP->Gen.
+Both_NNP->Quebecor
+Both_ADJP->ADJP PP
+Both_VB->raise
+Both_JJ->private
+Both_NNP->Time
+Both_JJR->lower
+Both_NN->purchase
+Both_IN->since
+Both_NNP->Monday
+Both_JJ->international
+Both_VBP->tell
+Both_QP->SYM CD CD
+Both_NN->chemical
+Both_NNP->Francisco
+Both_NNP->Mitchell
+Both_NNP->American
+Both_VB->allow
+Both_JJ->third
+Both_NN->result
+Both_NN->secretary
+Both_NN->supply
+Both_NNP->President
+Both_NP->JJ NNS
+Both_NN->hour
+Both_NN->center
+Both_NN->network
+Both_NN->request
+Both_PP->IN NP ADVP
+Both_NNP->Salomon
+Both_PP->PP PP
+Both_WRB->where
+Both_NP->NP , NP CC NP
+Both_NN->use
+Both_NN->complaint
+Both_``->`
+Both_NNP->Senate
+Both_JJR->higher
+Both_NNP->London
+Both_NN->move
+Both_VB->see
+Both_NP->DT NNS
+Both_NNP->Europe
+Both_NN->decline
+Both_NN->term
+Both_NN->news
+Both_NN->experiment
+Both_NN->deposit
+Both_S->S , NP VP
+Both_NN->corn
+Both_NNP->NEC
+Both_NN->trust
+Both_NN->flight
+Both_NNP->San
+Both_NN->standard
+Both_JJ->military
+Both_NNP->Columbia
+Both_NNP->Department
+Both_JJ->congressional
+Both_NN->survey
+Both_NN->maker
+Both_VB->give
+Both_RB->far
+Both_NN->trial
+Both_NN->action
+Both_NN->spending
+Both_NNP->Boston
+Both_NN->portfolio
+Both_NNP->Reagan
+Both_JJ->white
+Both_S->NP ADJP
+Both_RP->off
+Both_NN->strategy
+Both_NN->candidate
+Both_S->NP , NP VP
+Both_NNP->Dow
+Both_NP->PRP$ JJ NN
+Both_NN->creditor
+Both_NN->brokerage
+Both_IN->against
+Both_VP->VB PRT PP
+Both_NNP->IMF
+Both_NN->director
+Both_CD->trillion
+Both_NN->premium
+Both_NN->version
+Both_NN->debenture
+Both_NN->crash
+Both_JJ->executive
+Both_CD->five
+Both_NP->DT JJ CD NN
+Both_NNP->Nasdaq
+Both_NNP->Street
+Both_NN->psyllium
+Both_NN->patent
+Both_IN->between
+Both_VB->increase
+Both_NN->game
+Both_NNP->Integrated
+Both_NN->basis
+Both_ADJP->JJR
+Both_NN->guarantee
+Both_NN->account
+Both_#->#
+Both_NN->mile
+Both_VB->publish
+Both_NP->DT JJ
+Both_NN->mortgage
+Both_NNP->Hunt
+Both_NNP->Qintex
+Both_NNP->RJR
+Both_NNP->Hanover
+Both_NN->output
+Both_NN->budget
+Both_NN->margin
+Both_NN->world
+Both_NNP->Ortega
+Both_NNP->Air
+Both_NNP->Digital
+Both_NN->image
+Both_VP->VB ADVP NP
+Both_NNP->Aeroflot
+Both_NNP->Lawson
+Both_NNP->AT&T
+Both_NN->property
+Both_NNP->Corry
+Both_NN->model
+Both_NNP->AMR
+Both_NN->engineer
+Both_NN->spokesman
+Both_NNP->Zealand
+Both_NN->cell
+Both_ADJP->RB JJR
+Both_NN->payment
+Both_NN->campaign
+Both_VP->VBP ADVP VP
+Both_PP->IN NP PP
+Both_NNP->TV
+Both_NN->division
+Both_CD->2
+Both_NN->segment
+Both_JJ->capital-gain
+Both_NNP->U.K.
+Both_NNP->P&G
+Both_JJ->hard
+Both_NNP->Guber
+Both_JJ->former
+Both_NNP->Navigation
+Both_NNP->Mexico
+Both_NN->demand
+Both_NN->report
+Both_JJ->little
+Both_NN->pill
+Both_NN->earthquake
+Both_WRB->how
+Both_NP->JJ
+Both_NNP->Group
+Both_NN->amendment
+Both_NN->banking
+Both_NNP->Provigo
+Both_CD->1990
+Both_NNP->Ministry
+Both_NNP->Senator
+Both_JJ->convertible
+Both_VB->receive
+Both_VB->provide
+Both_RBR->earlier
+Both_NNP->RICO
+Both_NN->reinsurance
+Both_NN->adviser
+Both_NNP->SCI
+Both_JJ->good
+Both_NN->energy
+Both_NNP->Sen.
+Both_NN->trail
+Both_NNP->Delicious
+Both_VB->build
+Both_NN->producer
+Both_NNP->Courtaulds
+Both_NNP->Campeau
+Both_DT->every
+Both_NN->relationship
+Both_NN->-rcb-
+Both_NNP->Oct.
+Both_NN->minister
+Both_NNP->Breeden
+Both_JJ->nuclear
+Both_NP->DT NN NN NN
+Both_S->S CC S
+Both_NN->branch
+Both_NN->design
+Both_NN->speculation
+Both_NNP->Mesa
+Both_NN->man
+Both_NN->research
+Both_JJ->current
+Both_NNP->Mixte
+Both_NNP->Mrs.
+Both_NN->economy
+Both_NNP->Manville
+Both_NN->construction
+Both_NNP->June
+Both_NNP->Akzo
+Both_VP->VP , CC VP
+Both_NN->character
+Both_JJ->same
+Both_NNP->Thatcher
+Both_NN->job
+Both_NN->aid
+Both_NP->CD CD
+Both_JJS->least
+Both_NN->rating
+Both_NNP->Santa
+Both_NNP->TVA
+Both_NNP->FBI
+Both_CD->50
+Both_NNP->Lang
+Both_NNP->Angeles
+Both_NN->death
+Both_JJ->independent
+Both_NN->evidence
+Both_JJ->conservative
+Both_NN->college
+Both_NN->talk
+Both_RB->here
+Both_NNP->Los
+Both_VB->say
+Both_JJ->fiscal
+Both_NN->meeting
+Both_JJ->big
+Both_NN->coffee
+Both_S->NP `` VP
+Both_S->NP NP
+Both_RB->long
+Both_NN->auto
+Both_NNP->December
+Both_NN->article
+Both_RB->much
+Both_NNP->Index
+Both_NNP->HealthVest
+Both_NP->NN CC NN NN
+Both_JJ->retail
+Both_VBP->be
+Both_NNP->Pacific
+Both_NN->course
+Both_RB->very
+Both_IN->without
+Both_NN->staff
+Both_NN->farmer
+Both_NNP->S&P
+Both_NN->attorney
+Both_NN->percentage
+Both_NN->area
+Both_NN->pay
+Both_NNP->Goodson
+Both_NN->seed
+Both_JJ->much
+Both_NP->ADJP NN
+Both_NN->chip
+Both_VBP->know
+Both_RB->so
+Both_NN->estate
+Both_JJ->environmental
+Both_NN->restructuring
+Both_JJS->largest
+Both_NN->facility
+Both_MD->must
+Both_NN->sport
+Both_JJ->third-quarter
+Both_QP->JJR IN CD
+Both_NNP->Kabul
+Both_NNP->Rep.
+Both_NN->indexing
+Both_NN->highway
+Both_NNP->Galileo
+Both_NN->broker
+Both_NN->veto
+Both_NP->NNP NNPS
+Both_NN->certificate
+Both_ADJP->JJ CC JJ
+Both_NN->copy
+Both_SYM->c$
+Both_NNP->Tele-Communications
+Both_NNP->Phillips
+Both_JJ->pretax
+Both_NNP->Kellogg
+Both_JJ->high
+Both_NN->opportunity
+Both_VB->drop
+Both_NP->PRP$ NN NN
+Both_RB->back
+Both_NN->event
+Both_JJ->-lrb-
+Both_NNP->Compaq
+Both_NN->opposition
+Both_VB->push
+Both_VB->start
+Both_NN->cut
+Both_NN->committee
+Both_JJ->necessary
+Both_NNP->Maynard
+Both_NN->barrel
+Both_NN->position
+Both_NN->pc
+Both_NNP->Allianz
+Both_NN->viewer
+Both_NN->chromosome
+Both_SBAR->RB IN S
+Both_NN->mine
+Both_VB->keep
+Both_NN->battery
+Both_NN->chain
+Both_PRP->himself
+Both_NNP->Hess
+Both_VB->try
+Both_RB->perhaps
+Both_SBARQ->WHNP SQ
+Both_NNS->personnel
+Both_CD->100
+Both_RB->late
+Both_JJS->most
+Both_NN->garden
+Both_NNP->Panama
+Both_NN->decision
+Both_NN->advertiser
+Both_NNP->Big
+Both_NN->colon
+Both_VBP->end
+Both_NNP->FHA
+Both_NN->airport
+Both_NN->datum
+Both_NN->post
+Both_JJ->total
+Both_NNP->Canada
+Both_NNP->Dentsu
+Both_NN->quote
+Both_NNP->Fe
+Both_NP->DT JJR NN
+Both_WHPP->IN WHNP
+Both_NN->limit
+Both_NN->engine
+Both_NN->discrimination
+Both_NN->protection
+Both_NN->amount
+Both_NN->speech
+Both_NN->benefit
+Both_NN->recapitalization
+Both_CD->1987
+Both_NN->commodity
+Both_NN->telephone
+Both_QP->$ CD CD TO $ CD CD
+Both_VP->VBP ADVP PP S
+Both_NNP->Pilson
+Both_JJ->six-month
+Both_VBG->operating
+Both_NNP->Lorin
+Both_NN->capacity
+Both_NN->defendant
+Both_NN->poll
+Both_NN->speed
+Both_NN->book
+Both_VBP->buy
+Both_NN->approval
+Both_VB->begin
+Both_JJ->future
+Both_NNP->Nekoosa
+Both_VB->offer
+Both_NNP->LTV
+Both_NN->marketing
+Both_NN->fare
+Both_NN->vote
+Both_NN->crime
+Both_WRB->why
+Both_JJR->less
+Both_NP->NN SBAR
+Both_NP->NNP NN NN
+Both_:->;
+Both_JJ->large
+Both_NN->shipment
+Both_NN->effort
+Both_CD->100,000
+Both_NNP->Exxon
+Both_ADVP->IN JJS
+Both_NNP->State
+Both_RP->down
+Both_NN->soybean
+Both_NNP->Richmond
+Both_DT->both
+Both_NN->discount
+Both_NN->partnership
+Both_NN->owner
+Both_NN->hearing
+Both_NNP->Daiwa
+Both_NN->concern
+Both_NNP->Minpeco
+Both_VB->tell
+Both_NN->sector
+Both_NNP->Roy
+Both_VB->add
+Both_VB->improve
+Both_NN->poison
+Both_NN->financing
+Both_IN->below
+Both_NNP->Infiniti
+Both_NN->representative
+Both_NNP->Marcos
+Both_NN->protein
+Both_NNP->Newport
+Both_NNP->George
+Both_CD->16
+Both_NNP->Taiwan
+Both_NN->doctor
+Both_PP->JJ IN NP
+Both_NN->massage
+Both_IN->before
+Both_NN->control
+Both_NNP->Pemex
+Both_VP->VBD NP PP
+Both_CD->30
+Both_NNP->SEC
+Both_NN->accord
+Both_NNP->Hugo
+Both_NN->reason
+Both_NP->DT NNP NNP NNP
+Both_NN->film
+Both_NN->space
+Both_VB->break
+Both_NN->stop
+Both_NNP->Paul
+Both_NN->burst
+Both_NN->lot
+Both_NN->support
+Both_NN->thrift
+Both_NN->silver
+Both_VB->grow
+Both_NN->auction
+Both_VBP->start
+Both_VB->spend
+Both_VBP->own
+Both_VBP->see
+Both_NN->casino
+Both_NN->labor
+Both_JJ->central
+Both_NN->audit
+Both_NN->flag
+Both_NN->breaker
+Both_VP->VBP ADVP PP
+Both_NN->strike
+Both_VP->VBP NP S
+Both_NN->rally
+Both_NN->comment
+Both_JJ->legal
+Both_NN->nobody
+Both_CD->three
+Both_NNP->National
+Both_NNP->Tiger
+Both_NNP->Sotheby
+Both_NNP->Beach
+Both_NNP->Pont
+Both_NNP->West
+Both_NN->user
+Both_:->...
+Both_JJR->older
+Both_NN->heat
+Both_NN->embryo
+Both_NNP->Lexus
+Both_NN->partner
+Both_NNP->GAF
+Both_NNP->Southern
+Both_VB->distribute
+Both_NNP->Deloitte
+Both_NN->golf
+Both_ADJP->NP JJR
+Both_NNP->Tokyu
+Both_NNP->France
+Both_NN->hotel
+Both_NN->patient
+Both_NNP->Achenbaum
+Both_NN->fur
+Both_NN->outflow
+Both_NN->appropriation
+Both_NN->head
+Both_NN->resistance
+Both_JJ->cosmetic
+Both_VBP->need
+Both_NP->DT NNP NNP NN
+Both_NN->temperature
+Both_NNP->Du
+Both_NNP->Chemical
+Both_JJ->dual
+Both_NNP->Thompson
+Both_NN->vehicle
+Both_NN->prosecutor
+Both_NN->newspaper
+Both_VBP->compare
+Both_NN->volatility
+Both_CD->500
+Both_JJ->old
+Both_NNP->United
+Both_NNP->Stock
+Both_JJ->corporate
+Both_NNP->Mitsubishi
+Both_NP->NNP NNP NNP NNP
+Both_JJ->strong
+Both_NP->NP , NP , NP ,
+Both_NN->diamond
+Both_NNP->KKR
+Both_NNP->Stanley
+Both_RB->well
+Both_PP->RB IN NP
+Both_NNP->Cathay
+Both_NN->story
+Both_VBP->hold
+Both_JJ->unchanged
+Both_NN->wage
+Both_IN->whether
+Both_NN->fee
+Both_NN->wire
+Both_NN->tire
+Both_NN->machinist
+Both_NNP->Dr.
+Both_NNP->Express
+Both_NP->NN S
+Both_NN->poverty
+Both_NN->circuit
+Both_NNP->USAir
+Both_NN->material
+Both_JJ->male
+Both_IN->until
+Both_NN->productivity
+Both_NN->tool
+Both_VBP->quote
+Both_VBP->report
+Both_NN->scandal
+Both_NN->right
+Both_NN->liquidity
+Both_NN->society
+Both_NNP->Exchange
+Both_NN->hold
+Both_NNP->Milton
+Both_NNP->Toshiba
+Both_VBP->work
+Both_NNP->Healthcare
+Both_NN->guideline
+Both_CD->four
+Both_NN->defense
+Both_NNP->Tuesday
+Both_NNP->Shearson
+Both_NN->corporation
+Both_QP-># CD CD
+Both_VB->turn
+Both_VB->support
+Both_NN->specialist
+Both_NN->economist
+Both_NN->reduction
+Both_NN->neutron
+Both_MD->might
+Both_NNP->Sansui
+Both_NNP->Farm
+Both_NNP->Series
+Both_NN->treatment
+Both_NN->underwriter
+Both_JJ->-lcb-
+Both_VP->VB RB VP
+Both_JJ->free
+Both_NNP->Armstrong
+Both_NN->drive
+Both_NN->put
+Both_NN->parent
+Both_NN->measure
+Both_NNP->BankAmerica
+Both_NN->egg
+Both_NNP->Toyota
+Both_NN->waiver
+Both_NN->banker
+Both_NNP->Engelken
+Both_NNP->Vatican
+Both_JJ->simple
+Both_NNP->Eagle
+Both_NN->governor
+Both_NN->person
+Both_NN->restriction
+Both_ADVP->RBR
+Both_VB->retire
+Both_NN->announcement
+Both_NNP->Trump
+Both_VB->report
+Both_NNP->July
+Both_NN->advance
+Both_NN->seat
+Both_NN->explosion
+Both_NN->animal
+Both_NNP->Israel
+Both_NNS->whites
+Both_NN->horse
+Both_NNP->GE
+Both_NN->adult
+Both_NN->conduct
+Both_NP->NP ADJP NN
+Both_NNP->Sir
+Both_NNP->Pittsburgh
+Both_VB->cost
+Both_S->PP NP VP
+Both_VBP->produce
+Both_VP->VBP NP NP
+Both_JJS->latest
+Both_NN->conversion
+Both_NN->quotation
+Both_NN->someone
+Both_NNP->Edisto
+Both_NNP->Khmer
+Both_NN->shah
+Both_NN->leverage
+Both_NN->watt
+Both_NNP->ABC
+Both_NN->figure
+Both_NNP->Berry
+Both_CD->50,000
+Both_JJ->worth
+Both_NN->exclusion
+Both_NNP->Deutsche
+Both_NNP->Malaysia
+Both_NN->requirement
+Both_NN->enterprise
+Both_JJ->year-ago
+Both_NNP->Arafat
+Both_NN->organization
+Both_VBP->assume
+Both_NNP->Saturday
+Both_JJ->line-item
+Both_NNP->Lipstein
+Both_JJ->metric
+Both_NNP->Radio
+Both_JJ->educational
+Both_NNP->Max
+Both_JJ->sick
+Both_NNP->Rouge
+Both_NN->windshield
+Both_NN->incentive
+Both_JJ->comprehensive
+Both_JJ->duty-free
+Both_NN->legislation
+Both_NP->DT NNP NNP NNP NNP
+Both_VB->invest
+Both_JJ->american
+Both_NNP->Judge
+Both_NN->subsidy
+Both_NN->american
+Both_NNP->Fresenius
+Both_NN->chinese
+Both_VB->approve
+Both_NN->permission
+Both_NN->forfeiture
+Both_CD->7
+Both_VB->handle
+Both_VB->eliminate
+Both_NN->drop
+Both_NN->movie
+Both_NN->document
+Both_NNP->NATO
+Both_NNP->General
+Both_JJ->low
+Both_NN->specialty
+Both_NN->yen
+Both_NN->biotechnology
+Both_NNP->USDA
+Both_VP->VBP PP S
+Both_SINV->S ,  VP NP
+Both_NNP->Union
+Both_NNP->EC
+Both_NNP->Moscow
+Both_NN->form
+Both_NNP->El
+Both_NN->blood
+Both_NNP->Merkur
+Both_NNPS->Democrats
+Both_VBP->lose
+Both_VB->own
+Both_NN->junk-bond
+Both_NNP->March
+Both_NN->wife
+Both_JJ->municipal
+Both_NN->farm
+Both_NNP->Aetna
+Both_NN->subsidiary
+Both_CD->thousand
+Both_NNP->Jackson
+Both_NN->morning
+Both_NN->review
+Both_NN->flow
+Both_JJ->loyal
+Both_NN->driver
+Both_NN->peace
+Both_NNP->Shack
+Both_NNP->Gulf
+Both_NNP->Journal
+Both_NN->painting
+Both_NNP->Navy
+Both_NN->retirement
+Both_JJ->german
+Both_NP->JJ NN NN NN
+Both_NNP->Peter
+Both_NN->sentence
+Both_CD->1993
+Both_CD->1992
+Both_NN->phone
+Both_NNP->Pentagon
+Both_NN->mission
+Both_NNP->Helmsley
+Both_NNP->Class
+Both_JJ->several
+Both_VP->VB ADJP SBAR
+Both_NP->NP PP ADJP , VP
+Both_NN->view
+Both_NN->yeast
+Both_NN->thing
+Both_CD->14
+Both_CD->13
+Both_CD->12
+Both_CD->18
+Both_NN->reformer
+Both_JJ->fourth
+Both_CD->1\xc2\xa01/4
+Both_NN->type
+Both_NN->ratio
+Both_NNP->Afghanistan
+Both_NNP->Britain
+Both_VB->fall
+Both_VB->stop
+Both_NN->summer
+Both_VP->VB `` NP
+Both_NN->syndicate
+Both_NNP->Stanza
+Both_NN->pricing
+Both_VB->understand
+Both_NNP->Cray
+Both_JJ->annual
+Both_NNP->Greenspan
+Both_NN->rumor
+Both_RB->directly
+Both_NNP->Microsoft
+Both_NN->idea
+Both_NN->litigation
+Both_VB->respond
+Both_JJ->topiary
+Both_NNP->Entertainment
+Both_JJ->medical
+Both_NN->lira
+Both_PP->IN `` NP
+Both_SBAR->WHPP S
+Both_NN->something
+Both_NN->pencil
+Both_NNP->Estate
+Both_VB->pass
+Both_NNP->Cineplex
+Both_VBD->interview
+Both_JJ->indian
+Both_NNP->Lloyd
+Both_NN->bonus
+Both_VBP->take
+Both_NNP->Chase
+Both_NN->diabetic
+Both_NN->high
+Both_NN->demonstration
+Both_NNP->Carpenter
+Both_NN->beneficiary
+Both_VB->continue
+Both_NNP->Coast
+Both_NN->ghost
+Both_VP->VB ADJP ADVP
+Both_NN->competition
+Both_NN->rig
+Both_NNP->Roberts
+Both_NN->voter
+Both_VBN->become
+Both_NN->century
+Both_NN->loyalty
+Both_NNP->Cocom
+Both_NN->brigade
+Both_NNP->Dali
+Both_VP->VBP ADJP
+Both_NNP->Dell
+Both_NNP->Avery
+Both_NP->NP NP PP
+Both_NN->spirit
+Both_JJ->three-month
+Both_NNP->Delmed
+Both_JJ->optical
+Both_NN->coal
+Both_NN->incest
+Both_NNP->Espectador
+Both_NN->rape
+Both_VP->VP : CC VP
+Both_NNP->Fidelity
+Both_NP->NNP NNP NNPS
+Both_NNP->Trelleborg
+Both_NNP->Meredith
+Both_NNP->U.S.S.R.
+Both_NNP->Jones
+Both_NP->NNP NNP ADJP NN
+Both_RB->nearly
+Both_NNPS->Poles
+Both_NN->shop
+Both_NNP->Telerate
+Both_NN->cocoa
+Both_NN->theater
+Both_JJ->previous
+Both_NN->merger
+Both_VB->create
+Both_JJ->nominal
+Both_NNP->NASA
+Both_NNP->DPC
+Both_NNP->Capital
+Both_NNPS->Contras
+Both_NN->-rrb-
+Both_NNP->Coors
+Both_JJ->bond-equivalent
+Both_CD->31
+Both_VB->end
+Both_VP->VP , VP
+Both_NN->face
+Both_NN->aircraft
+Both_NN->pipeline
+Both_NN->improvement
+Both_NNP->October
+Both_NN->bureaucrat
+Both_NN->half
+Both_NNP->Smith
+Both_NN->researcher
+Both_RB->never
+Both_JJ->hybrid
+Both_NN->opinion
+Both_NN->access
+Both_NN->software
+Both_ADJP->RBR JJ
+Both_NN->community
+Both_NNP->Fox
+Both_NNP->Evans
+Both_NN->treasury
+Both_VB->put
+Both_NN->motor
+Both_NN->stock-index
+Both_JJ->lovable
+Both_VBP->come
+Both_ADVP->CD TO CD
+Both_NN->plastic
+Both_RB->about
+Both_NN->luxury
+Both_NN->section
+Both_NN->minicomputer
+Both_NN->route
+Both_NNP->AM
+Both_NP->VBN NN
+Both_NP->NP ADVP
+Both_NN->father
+Both_CD->40
+Both_NN->picture
+Both_NP->DT NN NNP
+Both_NNP->Irving
+Both_NN->war
+Both_DT->another
+Both_VBP->get
+Both_FW->bono
+Both_NNP->South
+Both_NN->bidder
+Both_NNPS->Rothschilds
+Both_NN->couple
+Both_VP->NN PP
+Both_NNP->Laff
+Both_NNP->Trade
+Both_NN->taxpayer
+Both_VBP->go
+Both_RB->annually
+Both_NNP->Power
+Both_NN->carrier
+Both_JJ->likely
+Both_NN->distribution
+Both_NNP->Daikin
+Both_NN->record
+Both_NNP->Venice
+Both_NP->DT JJ JJ JJ NN
+Both_VB->produce
+Both_NP->DT `` CD 
+Both_NN->ruble
+Both_VB->prevent
+Both_NN->field
+Both_NN->republic
+Both_NP->DT NN S
+Both_NP->ADJP JJ NN NN
+Both_IN->among
+Both_NN->unemployment
+Both_NP->NP UCP
+Both_NN->count
+Both_VB->join
+Both_NNP->Polaroid
+Both_NN->health
+Both_NN->charter
+Both_NN->jewelry
+Both_NNP->Grand
+Both_NNP->Singapore
+Both_NN->reform
+Both_NN->weather
+Both_NNP->Morris
+Both_NN->side
+Both_NNP->FAA
+Both_S->ADVP VP
+Both_NNP->D.T.
+Both_NP->DT ADJP NN NN
+Both_NP->DT JJS NN
+Both_JJ->official
+Both_NNP->Saatchi
+Both_NN->culture
+Both_NN->load
+Both_JJ->potential
+Both_JJ->european
+Both_NN->performance
+Both_NN->tester
+Both_IN->out
+Both_NNP->Conner
+Both_JJ->guilty
+Both_NNP->Tandy
+Both_NN->scientist
+Both_NNPS->Angels
+Both_NN->church
+Both_RB->too
+Both_NNP->GOP
+Both_NNP->America
+Both_NN->radar
+Both_NN->panel
+Both_NNP->Block
+Both_VB->deliver
+Both_NNS->cattle
+Both_NNP->Humana
+Both_VP->VB PP S
+Both_NNP->Data
+Both_NNP->Florida
+Both_S->ADVP NP VP
+Both_NN->column
+Both_RB->there
+Both_VB->ask
+Both_NNP->Icahn
+Both_JJR->smaller
+Both_NN->tritium
+Both_JJ->poor
+Both_VB->become
+Both_NN->commercial
+Both_NN->appreciation
+Both_NN->retailer
+Both_JJ->senior
+Both_NP->RBR DT NN
+Both_NN->gasoline
+Both_NN->penalty
+Both_NNP->Control
+Both_NP->DT JJ QP
+Both_NN->foot
+Both_NN->floor
+Both_NNP->Rubens
+Both_NN->food
+Both_NNP->Bear
+Both_NNP->Merieux
+Both_NNP->Honecker
+Both_NN->buyer
+Both_NNPS->Crusaders
+Both_JJ->socialist
+Both_NNP->BellSouth
+Both_NN->art
+Both_NNP->Shannon
+Both_RB->recently
+Both_NNP->Wolf
+Both_VBP->represent
+Both_NN->regulator
+Both_VB->trade
+Both_NNP->Manhattan
+Both_NN->listing
+Both_NN->merchant
+Both_NNP->Globe
+Both_VB->call
+Both_NN->consumption
+Both_NN->delivery
+Both_JJ->magnetic
+Both_PP->IN IN NP
+Both_NNP->Collins
+Both_SQ->NP VP
+Both_NNP->Texaco
+Both_SBARQ->WHADVP SQ
+Both_NN->reinforcement
+Both_NP->NNP NNP CC NNP
+Both_NN->tender
+Both_NNP->British
+Both_NN->appeal
+Both_VB->serve
+Both_VB->participate
+Both_NNP->Cap
+Both_NN->beta
+Both_NNP->Levine
+Both_NNP->Marina
+Both_NP->JJ NNP NN
+Both_NN->reorganization
+Both_JJ->jumbo
+Both_UCP->NP CC ADJP
+Both_NN->german
+Both_NN->tank
+Both_NNP->Oil
+Both_VB->like
+Both_NN->formulum
+Both_NN->minority
+Both_VP->ADVP VBP NP
+Both_JJ->basic
+Both_NN->hospital
+Both_NNP->Thursday
+Both_NNP->Revco
+Both_VB->convict
+Both_NNP->Tokyo
+Both_NN->technique
+Both_NNP->Lynch
+Both_NN->buy
+Both_RP->over
+Both_NN->tobacco
+Both_VB->vote
+Both_VB->obtain
+Both_NN->mainframe
+Both_NN->european
+Both_JJ->safe
+Both_JJ->western
+Both_VB->decline
+Both_NN->rest
+Both_NN->announcer
+Both_NNP->Committee
+Both_NP->RB DT NN
+Both_JJR->fewer
+Both_VBP->receive
+Both_NNP->Merrill
+Both_NN->subscriber
+Both_JJ->state-owned
+Both_NN->sanction
+Both_NN->ceiling
+Both_JJ->constitutional
+Both_NNP->Rockefeller
+Both_NN->chapter
+Both_VBP->oppose
+Both_NNP->Unix
+Both_NNP->Green
+Both_NN->ally
+Both_VB->plead
+Both_NNP->Azoff
+Both_NNP->Bally
+Both_VP->VBP NP ADVP
+Both_JJ->tough
+Both_JJ->daily
+Both_NNP->Bartlett
+Both_NNP->Roth
+Both_JJ->domestic
+Both_JJ->monetary
+Both_VBP->consist
+Both_NN->salary
+Both_IN->like
+Both_NP->DT JJ JJ NN NN
+Both_VBP->cite
+Both_NNP->Sullivan
+Both_NN->editorial
+Both_VBP->raise
+Both_NNP->Bridge
+Both_NNP->Dennis
+Both_NN->privilege
+Both_NN->crisis
+Both_NNP->Renaissance
+Both_VB->need
+Both_NNP->Viacom
+Both_NNP->Times
+Both_NN->exposure
+Both_NN->club
+Both_NN->suspension
+Both_NN->printer
+Both_NN->discharge
+Both_VBP->show
+Both_VB->change
+Both_NNP->Blair
+Both_NN->belief
+Both_NN->desert
+Both_NN->housing
+Both_NN->bourbon
+Both_NN->insulin
+Both_NNP->Mobil
+Both_JJ->nine-month
+Both_NNPS->Soviets
+Both_NN->antibody
+Both_VB->win
+Both_NNP->Chairman
+Both_RB->already
+Both_VB->acquire
+Both_NN->combination
+Both_JJ->undemocratic
+Both_ADJP->RB JJ PP
+Both_NNP->County
+Both_NNP->Hungary
+Both_NN->p53
+Both_NNP->Kraft
+Both_RBS->most
+Both_JJ->willing
+Both_NNP->Stearns
+Both_NN->card
+Both_NNP->Bofors
+Both_NNP->MGM/UA
+Both_VB->purchase
+Both_JJR->riskier
+Both_QP->$ CD TO $ CD
+Both_JJS->highest
+Both_NNP->Volokh
+Both_PP->PP CC PP
+Both_NNP->Pinkerton
+Both_NNP->NSC
+Both_NNP->Bork
+Both_NNP->Nicaragua
+Both_JJ->actual
+Both_NNP->Dictaphone
+Both_NN->expense
+Both_JJ->secured
+Both_NN->alliance
+Both_NN->university
+Both_NN->shipper
+Both_NN->robbery
+Both_NNP->Highland
+Both_NN->quake
+Both_NNP->Falls
+Both_NNP->Mips
+Both_NN->relation
+Both_NNP->Royal
+Both_NN->currency
+Both_NN->shopping
+Both_NNP->Roman
+Both_VB->hold
+Both_NN->quality
+Both_NNP->Colgate
+Both_CD->200
+Both_NP->NP PP SBAR
+Both_VP->VBP PP PP
+Both_VB->open
+Both_VB->develop
+Both_VB->hire
+Both_NNP->Salinger
+Both_NNP->Wang
+Both_VB->introduce
+Both_NN->instrument
+Both_NN->utility
+Both_NN->road
+Both_NNP->Valley
+Both_NP->CD CC CD
+Both_NN->command
+Both_JJ->british
+Both_NNP->Kasparov
+Both_VB->show
+Both_S->NP , VP
+Both_NN->stress
+Both_NN->mural
+Both_RB->often
+Both_NNP->Barry
+Both_VP->VB CC VB NP
+Both_NNP->Maine
+Both_NNP->Picop
+Both_JJ->non-violent
+Both_NN->soft-drink
+Both_NN->sand
+Both_JJ->single
+Both_NN->basketball
+Both_NN->tariff
+Both_NN->real-estate
+Both_VB->suggest
+Both_NN->credit-card
+Both_ADVP->NP RBR
+Both_NNP->Motor
+Both_NN->dispersant
+Both_FW->pro
+Both_NN->disk
+Both_NNP->Aer
+Both_NN->politician
+Both_NN->coyote
+Both_NN->no.
+Both_NNP->Moon
+Both_NNP->Robinson
+Both_NNP->Billy
+Both_NNP->Northern
+Both_VB->consolidate
+Both_VBP->ignore
+Both_NN->seller
+Both_VBP->reach
+Both_VP->VBP NP PP PP
+Both_NN->plane
+Both_S->NP , PP , VP
+Both_RP->away
+Both_NNPS->Beebes
+Both_NNP->Easy
+Both_NN->rent
+Both_NNPS->Rights
+Both_NNP->Ivan
+Both_NN->potential
+Both_NN->bomber
+Both_VB->appoint
+Both_NN->anther
+Both_NNP->Templeton
+Both_NN->jacket
+Both_JJ->whooping
+Both_NNP->Computer
+Both_NN->condom
+Both_NNP->U.S.-China
+Both_NN->prince
+Both_NNP->Noxell
+Both_NNP->Negas
+Both_ADJP->RB RB JJ
+Both_NNP->Schwarz
+Both_NN->method
+Both_NN->eurodollar
+Both_NNP->Mae
+Both_NNP->Oregon
+Both_NNP->Fargo
+Both_NNP->Jordan
+Both_JJ->short-term
+Both_NNP->Antar
+Both_NN->operative
+Both_NN->jazz
+Both_NNP->Finks
+Both_NNP->Mason
+Both_NNP->Dataproducts
+Both_NNPS->Republicans
+Both_VB->teach
+Both_NNPS->Bros.
+Both_NN->punt
+Both_NN->promotion
+Both_NNP->Casualty
+Both_NNP->Marriott
+Both_NN->democracy
+Both_NN->cup
+Both_NP->QP NN NN
+Both_NNP->Shields
+Both_VBZ->hail
+Both_RBR->less
+Both_NNP->Betsy
+Both_NN->jury
+Both_NNP->Olivetti
+Both_NN->copyright
+Both_NN->prosecution
+Both_NP->QP JJ NN
+Both_NNP->Electron
+Both_NNP->Jim
+Both_NN->injury
+Both_NP->DT NNP NNP CD
+Both_NN->breakup
+Both_NNP->Lithox
+Both_JJ->expensive
+Both_VBP->hire
+Both_NN->enthusiasm
+Both_NNP->Sacramento
+Both_NNP->Pennsylvania
+Both_NNP->Landry
+Both_NNP->Banks
+Both_NNP->Broker
+Both_NN->theory
+Both_NN->mismatch
+Both_JJ->atmospheric
+Both_NNP->CIA
+Both_NNP->Lortie
+Both_NNP->Trust
+Both_JJ->quarterly
+Both_NN->catalog
+Both_NN->fitness
+Both_NN->husband
+Both_VBP->bowl
+Both_NNP->European
+Both_NN->association
+Both_NN->duty
+Both_ADVP->RB RBR
+Both_NNP->Va.
+Both_NNP->Brazil
+Both_JJ->floating-rate
+Both_NP->NP SBAR SBAR
+Both_NN->flesh
+Both_JJ->whole
+Both_NN->cycle
+Both_VP->VBD PRT NP NP PP
+Both_NNP->Rights
+Both_NN->donation
+Both_NNP->England
+Both_NNP->City
+Both_JJ->foster
+Both_NN->rejection
+Both_VBN->insured
+Both_NNP->Energy
+Both_NNP->Merc
+Both_NNP->Tisch
+Both_NNP->Kate
+Both_VB->retain
+Both_NNP->CenTrust
+Both_RB->hard
+Both_NN->license
+Both_NNPS->Productions
+Both_NN->respondent
+Both_NN->symptom
+Both_JJ->huge
+Both_NNP->Commodity
+Both_JJ->radical
+Both_NN->eagerness
+Both_RB->later
+Both_VB->cut
+Both_NN->mortality
+Both_NNP->Maalox
+Both_NN->chair
+Both_VB->decide
+Both_NNP->Vila
+Both_NN->boiler
+Both_NNP->Kemper
+Both_RB->however
+Both_CD->350
+Both_NN->commute
+Both_NNP->Interpublic
+Both_NN->park
+Both_NNP->Lawrence
+Both_NNP->Dean
+Both_NN->glass
+Both_NNP->Nadeau
+Both_NNP->Penn
+Both_NNP->Kryuchkov
+Both_NNP->Wathen
+Both_NNS->proceeds
+Both_NN->fine
+Both_JJ->nonresident
+Both_NNP->Mitsukoshi
+Both_NNP->University
+Both_NN->scene
+Both_NN->blow
+Both_NNP->Suez
+Both_JJ->operate
+Both_NN->class
+Both_JJ->swiss
+Both_NN->impact
+Both_NN->champion
+Both_VP->NN VP
+Both_NNP->Sulzer
+Both_NN->incompetence
+Both_PP->IN CC IN NP
+Both_NN->satellite
+Both_VB->name
+Both_NNP->D.C.
+Both_NN->device
+Both_NN->raise
+Both_NNP->Fiat
+Both_NNP->Campbell
+Both_NN->season
+Both_VB->rule
+Both_NNP->Medical
+Both_NNP->Boesky
+Both_NNP->767-300ER
+Both_NN->expertise
+Both_VBN->accept
+Both_NNP->Ernst
+Both_NP->RB DT JJ NN
+Both_VB->enable
+Both_NN->drawing
+Both_NN->polyp
+Both_NN->jail
+Both_NP->JJ `` JJ  NN
+Both_NNP->ABM
+Both_NN->box-office
+Both_NN->go
+Both_NNP->NBC
+Both_CD->1\xc2\xa03/8
+Both_VP->VBN S
+Both_NNP->Gates
+Both_VBP->begin
+Both_VP->VB ADJP S
+Both_NNP->Harsco
+Both_NN->planning
+Both_NNP->Siegel
+Both_NNP->Epson
+Both_NNP->Lyondell
+Both_NNP->Video
+Both_NN->protest
+Both_NN->transplant
+Both_NN->decade
+Both_JJ->early
+Both_NNP->Sloan
+Both_NNP->Borden
+Both_NNP->Cantor
+Both_NNP->Solidarity
+Both_NNP->Aoki
+Both_NN->notebook
+Both_NNP->Meritor
+Both_NNP->Wertheimer
+Both_NNP->Petroleum
+Both_VP->VP , VBP PP S
+Both_JJ->subject
+Both_NNP->Direct
+Both_NNP->Italy
+Both_NNP->McCall
+Both_RB->slightly
+Both_NNP->LaFalce
+Both_NN->skier
+Both_NN->town
+Both_DT->many
+Both_JJ->elderly
+Both_VBP->allow
+Both_NN->air-traffic
+Both_NNP->Gintel
+Both_NNP->Tharp
+Both_NNP->Ginnie
+Both_NN->printing
+Both_NNP->Orr
+Both_NN->inventory
+Both_NN->supplier
+Both_NNP->Cypress
+Both_NN->shadow
+Both_NN->congressman
+Both_INTJ->UH
+Both_NNP->Council
+Both_NP->RB NN
+Both_NNP->Regal
+Both_NP->DT NNP NNP NNPS
+Both_NN->feedlot
+Both_NNPS->Arabs
+Both_NNPS->Foods
+Both_NNP->Montgoris
+Both_NN->plutonium
+Both_NNP->Gandhi
+Both_JJ->unfilled
+Both_NNP->Party
+Both_NNP->Hunter
+Both_JJ->defaulted
+Both_NN->pleasure
+Both_NNP->Ty
+Both_VB->lure
+Both_NN->pick
+Both_JJ->significant
+Both_NNP->TI
+Both_NNP->Horton
+Both_NNP->Apple
+Both_VB->fill
+Both_NN->quota
+Both_JJ->powerful
+Both_VB->fight
+Both_JJ->inflation-adjusted
+Both_VP->ADVP VB
+Both_VBP->become
+Both_NNP->Asarco
+Both_NN->finance
+Both_VB->file
+Both_NNPS->Mills
+Both_JJ->four-game
+Both_NNP->Kean
+Both_PP->IN ADVP
+Both_NN->advocacy
+Both_VP->VBN ADJP
+Both_VB->fly
+Both_NNP->Tomlin
+Both_NNP->Farmers
+Both_NN->infertility
+Both_NN->public
+Both_VB->beat
+Both_NNP->Macy
+Both_ADVP->RB CC RB
+Both_JJ->eastern
+Both_NN->bishop
+Both_NN->activist
+Both_NP->DT JJ NNP NNPS
+Both_NNP->MCA
+Both_NN->reinvestment
+Both_NN->ivory
+Both_NNP->MCI
+Both_NN->bias
+Both_NN->refining
+Both_NNP->Nashua
+Both_NN->newcomer
+Both_NNP->Maidenform
+Both_JJ->30-year
+Both_NNP->Dallas
+Both_VB->watch
+Both_NNP->Wilbur
+Both_NNP->Dreyfus
+Both_NNP->Security
+Both_NNP->Model
+Both_NN->laser
+Both_NNP->Philip
+Both_VB->adopt
+Both_NNP->Ingersoll
+Both_NN->bar
+Both_NNP->Sperry
+Both_NN->proportion
+Both_NN->recital
+Both_JJ->healthy
+Both_JJ->homosexual
+Both_NN->plenty
+Both_NNP->Luis
+Both_NN->violation
+Both_NN->wait
+Both_NN->police
+Both_NNP->Medicaid
+Both_JJ->loss-making
+Both_NNP->Hartford
+Both_JJ->green
+Both_NNP->Crane
+Both_NNP->Avondale
+Both_JJ->cumulative
+Both_NN->mark-up
+Both_JJ->unpublished
+Both_NP->JJ JJ NNS
+Both_PRP->themselves
+Both_NN->dog
+Both_NN->boomer
+Both_SBARQ->SBAR , SQ
+Both_NNP->Electric
+Both_NN->cereal
+Both_NNP->Sherwin
+Both_JJ->corporate-finance
+Both_NNP->Dodd
+Both_VB->lose
+Both_NN->organized-crime
+Both_NNP->Bataan
+Both_NNP->Nortek
+Both_CD->1983
+Both_NNP->Needham
+Both_NN->ship
+Both_CD->1986
+Both_CD->1984
+Both_VBP->indicate
+Both_NNP->Wright
+Both_NN->land
+Both_NNP->Innopac
+Both_NNP->Robertson
+Both_NN->appointee
+Both_NNP->Holmes
+Both_NNP->Ammann
+Both_NN->lens
+Both_NN->overtime
+Both_NNP->Carlucci
+Both_NN->arrival
+Both_NN->dam
+Both_NNP->Lesko
+Both_VBP->appear
+Both_NNP->Ackerman
+Both_JJ->outstanding
+Both_NP->NP , CC NP , ADVP
+Both_NN->challenge
+Both_VB->read
+Both_NN->obstacle
+Both_NN->rotation
+Both_NNP->Rally
+Both_NN->initiative
+Both_NN->revival
+Both_NP->JJR
+Both_NP->JJS
+Both_NNP->Liz
+Both_VB->think
+Both_NNP->Cockburn
+Both_NNP->Angelo
+Both_VBP->mention
+Both_NNP->Quickview
+Both_NNP->Packer
+Both_NN->script
+Both_JJ->photographic
+Both_JJ->bulk
+Both_JJ->joint
+Both_VBP->yell
+Both_NN->spokeswoman
+Both_NN->royalty
+Both_NN->clone
+Both_NN->clinic
+Both_NNPS->Environmentalists
+Both_NN->capitalization
+Both_NN->salesman
+Both_NNP->Equitable
+Both_VB->require
+Both_NN->due-process
+Both_NP->JJ NN CC NN
+Both_NN->discrepancy
+Both_NP->NN POS
+Both_NNS->price/earnings
+Both_CD->0.2
+Both_NNP->Safra
+Both_JJ->demonic
+Both_NNP->Beers
+Both_NN->question
+Both_CD->2.3
+Both_VBP->throw
+Both_VB->invade
+Both_NN->front
+Both_NP->NP : NP
+Both_NP->JJ VBG NN
+Both_NN->winery
+Both_NN->player
+Both_CD->1.10
+Both_NN->foundation
+Both_NNP->Campo
+Both_NN->recommendation
+Both_NN->beauty
+Both_NNP->Pact
+Both_NN->assistance
+Both_JJ->wooden
+Both_JJ->stiff
+Both_NNP->GASB
+Both_NNP->Pace
+Both_NN->region
+Both_NNP->Showtime
+Both_VBP->stand
+Both_NN->approach
+Both_VB->consider
+Both_NNP->Quebec
+Both_NN->rice
+Both_CD->155
+Both_VB->attract
+Both_NNP->John
+Both_NN->loan-loss
+Both_VP->VBP NP NP PP
+Both_VP->`` VB VBP PP
+Both_NN->boom
+Both_NNP->Medstone
+Both_UH->no
+Both_NN->mining
+Both_NP->NNP NNP NN
+Both_NN->launch
+Both_NNP->Shale
+Both_NNP->Virginia
+Both_NN->crown
+Both_VB->ignore
+Both_NN->practice
+Both_VBN->crushed
+Both_NNP->Sinatra
+Both_NN->breast
+Both_NN->assurance
+Both_VB->suspend
+Both_JJ->interest-rate
+Both_NN->runway
+Both_JJ->preliminary
+Both_VB->worry
+Both_NN->spy
+Both_NNP->Taylor
+Both_VB->explain
+Both_NNP->Wednesday
+Both_JJ->able
+Both_VB->drag
+Both_NNP->Notice
+Both_VBP->run
+Both_NNP->Working
+Both_NN->chance
+Both_NNP->Soap
+Both_NN->lawmaker
+Both_NNP->Farney
+Both_VB->lease
+Both_NN->boat
+Both_NN->dwarf
+Both_JJ->seedy
+Both_NN->tassel
+Both_NN->wrapper
+Both_NN->emphasis
+Both_NNP->Peck
+Both_VB->erase
+Both_NNP->JAL
+Both_RB->west
+Both_NN->desk
+Both_NN->leadership
+Both_CD->1994
+Both_CD->1991
+Both_NN->arrest
+Both_NNP->Boren
+Both_VBN->read
+Both_NNP->Emhart
+Both_VB->hear
+Both_NNP->Franklin
+Both_NNP->Matthews
+Both_NN->baseball
+Both_NNP->Coke
+Both_NNP->Lionel
+Both_RB->together
+Both_VB->conform
+Both_NN->finding
+Both_NNP->Shaw
+Both_NNP->Comfort
+Both_NNP->TVX
+Both_NN->foam
+Both_QP->IN JJS CD
+Both_NP->DT NNP CC NNP
+Both_JJ->-rcb-
+Both_VBP->tend
+Both_NNP->Financial
+Both_VBP->participate
+Both_NNP->Motorola
+Both_NN->population
+Both_NP->DT `` JJ NN 
+Both_NNP->Cheney
+Both_VBD->bust
+Both_NNP->Montedison
+Both_NN->one
+Both_NNP->Messiah
+Both_NN->billing
+Both_JJ->tax-exempt
+Both_NNP->Version
+Both_NNP->Weisfield
+Both_NNP->Fournier
+Both_NNP->Task
+Both_JJ->available
+Both_CD->17
+Both_JJ->civil
+Both_NNP->Rahn
+Both_NN->tourist
+Both_JJ->civic
+Both_JJ->industrial
+Both_RB->genetically
+Both_VB->carry
+Both_CD->7.10
+Both_JJ->mainframe-class
+Both_CD->1.12
+Both_JJ->mad
+Both_NNP->D.
+Both_VP->VB PP  PP
+Both_NNP->Insurance
+Both_VB->comment
+Both_VB->save
+Both_NN->recall
+Both_CD->500,000
+Both_NN->journalist
+Both_NNP->DD
+Both_NNPS->Brothers
+Both_NNP->Secretary
+Both_JJ->normal
+Both_JJ->mini-component
+Both_NNP->Staloff
+Both_MD->"ll"
+Both_NNP->Park
+Both_JJ->voluntary
+Both_NNP->Fund
+Both_NNP->Hubbard
+Both_NNP->Hibor
+Both_NNP->De
+Both_JJ->french
+Both_NN->polystyrene
+Both_NN->tower
+Both_NP->NNP , NNP CC NNP
+Both_NN->horn
+Both_VP->VB ADVP , PP
+Both_JJ->wrong
+Both_NNP->TransCanada
+Both_NNP->Walter
+Both_NN->ketchup
+Both_VBP->contend
+Both_NNP->Pushkin
+Both_CD->38
+Both_VB->look
+Both_RB->maybe
+Both_VBP->argue
+Both_NNP->Todt
+Both_NN->choice
+Both_NN->stretch
+Both_NN->cease-fire
+Both_NNP->Seiko
+Both_NP->CD NNS
+Both_NNP->Dang
+Both_NN->racketeering
+Both_NNPS->Southerners
+Both_NN->battle
+Both_VBP->vote
+Both_PDT->half
+Both_VB->promote
+Both_NNP->Carat
+Both_QP->IN CD NN TO CD
+Both_NNP->Semel
+Both_NN->clause
+Both_VBN->set
+Both_NNP->Chestman
+Both_NNP->Douglas
+Both_JJ->19th
+Both_NN->architect
+Both_NN->probe
+Both_VB->speak
+Both_NN->weight
+Both_NN->directory
+Both_NN->grower
+Both_NN->west
+Both_ADVP->IN
+Both_NN->emergency
+Both_JJ->democratic
+Both_NN->focus
+Both_NNP->UPS
+Both_NNP->"OBrien"
+Both_JJ->permanent
+Both_NNP->Central
+Both_NNPS->Fujis
+Both_NP->NP NNP NN
+Both_NP->PRP$ CD NN
+Both_NP->NNP NNPS NNP
+Both_NNP->Carlos
+Both_NN->help
+Both_NN->storage
+Both_NN->mouse
+Both_NNP->Intermediate
+Both_NN->mediator
+Both_NN->toilet
+Both_NNP->Intelligence
+Both_NNP->Houston
+Both_NNPS->Postels
+Both_NNPS->Games
+Both_NNP->Illuminating
+Both_NN->train
+Both_RB->scrubber
+Both_NNP->Burgess
+Both_NNS->papers
+Both_NNP->Drug
+Both_NN->endangerment
+Both_NNP->Storer
+Both_NN->perception
+Both_NNP->Bates
+Both_VBP->negotiate
+Both_VB->operate
+Both_NN->claimant
+Both_NNP->Fitzwater
+Both_NP->NP : S
+Both_NP->DT `` NX
+Both_NNP->Bowes
+Both_NNP->Employers
+Both_JJ->long
+Both_JJ->academic
+Both_VP->VB NP , PP PP
+Both_JJ->seven-day
+Both_VB->shake
+Both_JJ->mutual
+Both_NNP->BPCA
+Both_NNP->CS
+Both_NN->ownership
+Both_NN->frame
+Both_NN->skirt
+Both_NNP->Ventures
+Both_NNP->Young
+Both_NN->entrepreneur
+Both_NNP->Belli
+Both_NNP->Care
+Both_JJ->contraceptive
+Both_NNP->Carr
+Both_CD->22
+Both_CD->23
+Both_NN->relief
+Both_NNP->Leader
+Both_CD->26
+Both_NP->NP QP
+Both_VBP->carry
+Both_JJ->chinese
+Both_NNP->Taft
+Both_NNP->Quayle
+Both_NNP->Panetta
+Both_NN->tea
+Both_VB->lobby
+Both_JJ->national
+Both_NN->batter
+Both_IN->near
+Both_JJR->larger
+Both_NN->canadian
+Both_NP->DT NN SBAR
+Both_NN->operating
+Both_IN->around
+Both_VP->VP CC VP NP
+Both_NN->apparel
+Both_NN->pub
+Both_VBP->aim
+Both_NN->play
+Both_VBP->prevail
+Both_NN->disintegration
+Both_NNP->Katz
+Both_CD->3.35
+Both_IN->per
+Both_NNP->Comprehensive
+Both_NN->navy
+Both_CD->1974
+Both_S->ADJP NP
+Both_VB->want
+Both_NNP->GATT
+Both_NN->award
+Both_NN->shipyard
+Both_NNP->Thermo
+Both_NNS->clothes
+Both_VBP->isolate
+Both_NNP->Food
+Both_NN->perspective
+Both_NP->JJ NNPS
+Both_NNP->Frank
+Both_NN->daylight
+Both_NNP->Ralph
+Both_VBP->deal
+Both_NNP->Hospital
+Both_VB->solve
+Both_NNP->Goldman
+Both_CD->44,400
+Both_JJ->reminiscent
+Both_VB->work
+Both_NNP->Ashland
+Both_VP->VBD NP PP S
+Both_JJ->monolithic
+Both_VB->avoid
+Both_NNPS->Workers
+Both_JJ->stop-limit
+Both_NNP->Ramada
+Both_NNPS->Summer
+Both_NN->passenger
+Both_VP->VB SBAR PP
+Both_RB->downward
+Both_NN->delay
+Both_ADJP->RB JJ S
+Both_NNP->Brawer
+Both_CD->4.25
+Both_VB->expand
+Both_NN->fear
+Both_NNPS->Cowboys
+Both_NNP->Hoelzer
+Both_NN->effect
+Both_NN->balloon
+Both_NN->kylix
+Both_NNP->Hixson
+Both_QP->RB CD CD
+Both_VB->seem
+Both_NNP->NFL
+Both_CD->0.10
+Both_NN->consortium
+Both_NN->butcher
+Both_JJ->casual
+Both_NNP->Kennedy
+Both_NN->soup
+Both_NNP->mart
+Both_NNPS->Records
+Both_ADJP->ADVP JJ
+Both_NN->potato
+Both_NP->NP , CONJP NP
+Both_VBP->believe
+Both_NN->debate
+Both_NN->emission
+Both_JJ->reasonable
+Both_NNP->Unilever
+Both_NP->DT NNP NNP POS
+Both_NN->uniform
+Both_VBG->hearing
+Both_FW->glasnost
+Both_VP->VB PP SBAR
+Both_NNPS->Appropriations
+Both_NN->shot
+Both_NN->exercise
+Both_VB->face
+Both_CD->1973
+Both_CD->1972
+Both_CD->1970
+Both_RB->somewhat
+Both_NNP->Trinova
+Both_NNP->RTC
+Both_NN->compensation
+Both_NN->tract
+Both_JJ->limited
+Both_VBP->assess
+Both_NN->dealership
+Both_VBN->combined
+Both_RB->bluntly
+Both_NNP->Lazard
+Both_NNP->"Dunkin"
+Both_NNP->Mother
+Both_NN->Coke
+Both_NNP->Jr.
+Both_NN->fast-food
+Both_JJ->advisory
+Both_NN->goal
+Both_VB->gain
+Both_NNP->Florio
+Both_NNP->Pitney
+Both_NNP->Dec.
+Both_NNP->Scowcroft
+Both_NN->series
+Both_JJ->past
+Both_NNP->Nikkei
+Both_NNP->Tilly
+Both_NN->fuel
+Both_JJ->notebook-sized
+Both_NNP->MeraBank
+Both_NNP->Fedders
+Both_NN->province
+Both_NNP->Henderson
+Both_VB->deny
+Both_NNP->StatesWest
+Both_RB->over
+Both_NN->tro
+Both_NNP->Hoffman
+Both_JJ->residential
+Both_NN->franchisee
+Both_JJ->gentle
+Both_VB->underperform
+Both_NP->DT CD
+Both_NN->pachinko
+Both_NN->warranty
+Both_NN->cigarette
+Both_JJ->nonunion
+Both_JJ->paramount-mca
+Both_QP->RB $ CD CD
+Both_NNP->Canadian
+Both_NNP->PS
+Both_NNP->Jerell
+Both_NNP->Runner
+Both_NNP->B.
+Both_JJ->pregnant
+Both_NNP->UFO
+Both_NNP->Sherry
+Both_NN->today
+Both_NN->british
+Both_NNP->Pizza
+Both_NNP->Barnicle
+Both_CD->zero
+Both_NNP->Service
+Both_NN->boundary
+Both_NN->master
+Both_NN->juror
+Both_IN->once
+Both_JJ->aggressive
+Both_NN->butter
+Both_NN->list
+Both_NNP->Petronas
+Both_NX->NN NN
+Both_NNP->Madison
+Both_NN->hope
+Both_NN->need
+Both_NP->NP , PP
+Both_NNP->Masson
+Both_VB->clobber
+Both_NN->crop
+Both_NN->carbon-dioxide
+Both_NNP->Dian
+Both_NN->can
+Both_NN->conspiracy
+Both_VBP->recommend
+Both_NN->retailing
+Both_NN->instruction
+Both_NN->baby
+Both_NN->exploration
+Both_CD->10\xc2\xa03/4
+Both_NNP->Arab
+Both_NNP->Social
+Both_VBP->open
+Both_NNP->Mead
+Both_VB->sort
+Both_JJ->raw
+Both_VB->induce
+Both_NNP->H&R
+Both_RB->prior
+Both_NN->terrorism
+Both_CD->8.26
+Both_NNP->Freeman
+Both_NNP->Beretta
+Both_NN->body
+Both_NN->biker
+Both_IN->above
+Both_NNP->DAX
+Both_SBAR->SBAR , CC SBAR
+Both_JJ->enough
+Both_VBP->try
+Both_JJ->east
+Both_JJ->structural
+Both_NNS->grounds
+Both_NNP->SAS
+Both_CD->35
+Both_NN->cemetery
+Both_NN->West
+Both_JJ->active
+Both_NNP->Appropriations
+Both_NN->penny
+Both_JJ->packaged-goods
+Both_NN->watch
+Both_JJ->criminal
+Both_NNP->Wakeman
+Both_NNP->GMAC
+Both_NNP->Walker
+Both_NNP->Convex
+Both_NNP->Teddy
+Both_JJ->lift-ticket
+Both_NN->nursing
+Both_JJ->prosecutorial
+Both_NN->top-management
+Both_JJ->top
+Both_ADJP->JJ JJ
+Both_JJ->panamanian
+Both_NNP->Moody
+Both_NN->weapon
+Both_NN->implication
+Both_JJ->rural
+Both_FW->la
+Both_NN->stockholder
+Both_NNP->K
+Both_NNP->FCC
+Both_NNP->Ozal
+Both_NNP->C
+Both_NN->addition
+Both_NP->DT ADJP JJ NN
+Both_NN->urge
+Both_NNP->Whitbread
+Both_NN->winter
+Both_NN->funding
+Both_NNP->Vegas
+Both_ADVP->ADVP PP
+Both_NNP->Finnair
+Both_NP->NP NNP NNP
+Both_NNP->Corsica
+Both_JJ->composite
+Both_NNP->Filipino
+Both_NNP->Gemina
+Both_NNP->Ivory
+Both_NNP->Disney
+Both_NNP->Cristiani
+Both_NNP->Xtra
+Both_NNP->HEI
+Both_NNP->Polly
+Both_NNP->Carter
+Both_NNP->Shicoff
+Both_NNP->Anchor
+Both_NNP->Shamir
+Both_FRAG->PP , S
+Both_NNS->widen
+Both_NNP->AG
+Both_NNP->Boeing
+Both_NN->black
+Both_NNP->Gillett
+Both_NN->franchiser
+Both_VB->undermine
+Both_NNP->Amway
+Both_NNP->Ad
+Both_JJ->asset-backed
+Both_NNP->Anderson
+Both_CD->49
+Both_CD->44
+Both_NNP->Amoco
+Both_NNP->Ebensburg
+Both_NN->objective
+Both_JJ->pertinent
+Both_JJR->afrikaner
+Both_NNP->Banco
+Both_NNP->Constitution
+Both_NNP->Chicago
+Both_NP->DT NN CD NN NN
+Both_NP->NNP CD , CD ,
+Both_JJ->mandatory
+Both_VP->VBP ADVP
+Both_NNP->Century
+Both_NNP->Donovan
+Both_RP->back
+Both_NN->republican
+Both_NN->substitute
+Both_NN->way
+Both_VBP->prefer
+Both_NNP->Instruments
+Both_NNP->Steel
+Both_UCP->NN CC JJ
+Both_VB->engage
+Both_VB->miss
+Both_NNP->Arby
+Both_JJ->Arab
+Both_NNP->Ballhaus
+Both_NNP->Haag
+Both_NNP->Bang
+Both_RB->apparently
+Both_RB->ahead
+Both_NN->rider
+Both_VB->rescind
+Both_.->?
+Both_JJ->zero-coupon
+Both_VB->resign
+Both_JJ->electrolytic
+Both_NNP->Colombia
+Both_NN->lbo
+Both_NNP->Deng
+Both_VB->flourish
+Both_VB->lead
+Both_NN->tie
+Both_NNP->Holiday
+Both_RB->previously
+Both_NN->wall
+Both_NNP->Bennett
+Both_VBN->come
+Both_NNPS->Emirates
+Both_NP->NP ADJP JJ NN
+Both_NN->petition
+Both_QP->CC JJR
+Both_NN->taxation
+Both_NNP->Shakespeare
+Both_NNP->Johnson
+Both_NN->tuition
+Both_JJ->initial
+Both_NN->Sentra
+Both_JJ->romantic
+Both_VB->design
+Both_PP->RB PP
+Both_NN->experience
+Both_VB->meet
+Both_NN->indictment
+Both_NN->laptop
+Both_NNP->Ground
+Both_NNP->Guber-Peters
+Both_VB->reset
+Both_VB->convert
+Both_VB->catch
+Both_NNP->Torrijos
+Both_NNP->Western
+Both_NN->split
+Both_NN->freight
+Both_NN->scotch
+Both_NNP->Lakeland
+Both_NN->item
+Both_NN->souvenir
+Both_CD->5/32
+Both_NN->vessel
+Both_NN->proof
+Both_NN->privacy
+Both_NN->coup
+Both_NNP->Alley
+Both_NN->plight
+Both_NP->DT VBN QP NN
+Both_NP->DT NNP POS
+Both_NNP->Erbamont
+Both_JJ->individual
+Both_NNP->Bouillaire
+Both_NNP->Cokely
+Both_NN->molecule
+Both_NN->sheet
+Both_NN->bureau
+Both_NNP->Great
+Both_NNP->Gov.
+Both_JJ->local
+Both_CD->5
+Both_NNP->November
+Both_NN->steelmaker
+Both_NN->machete
+Both_JJ->bureaucratic
+Both_NNP->OTC
+Both_NN->ribbon
+Both_RB->earlier
+Both_NN->cough
+Both_MD->shall
+Both_NNP->Strip
+Both_VB->climb
+Both_VB->process
+Both_NN->discovery
+Both_NN->playoff
+Both_JJ->final
+Both_RB->generally
+Both_NN->bailiff
+Both_NNS->supplies
+Both_NNP->Chevron
+Both_NNP->Giuliani
+Both_VB->mind
+Both_NP->DT FW NN NN
+Both_VBP->smoke
+Both_NP->FW
+Both_VBP->exceed
+Both_VBP->retail
+Both_NNP->Apogee
+Both_NNP->Beijing
+Both_NNP->Credit
+Both_RB->admittedly
+Both_NN->mayor
+Both_NN->reassurance
+Both_VB->protect
+Both_NN->attention
+Both_NN->yard
+Both_NNP->Comair
+Both_NN->exception
+Both_NN->journalism
+Both_RB->formerly
+Both_NP->DT JJ NN POS
+Both_NNP->Fixx
+Both_JJ->open
+Both_NNP->Donuts
+Both_NN->wallpaper
+Both_NP->DT ADJP FW NN NN
+Both_NN->linage
+Both_NN->ipo
+Both_NNP->Cananea
+Both_NNP->Act
+Both_NNP->S&L
+Both_JJ->investment-grade
+Both_S->PP NP , NP VP
+Both_NN->video
+Both_NN->balance
+Both_NN->general
+Both_NP->DT NNPS POS
+Both_JJ->il-4
+Both_NNP->Raeder
+Both_VB->jump
+Both_NNP->Citibank
+Both_NNP->International
+Both_NN->acre
+Both_JJ->monthly
+Both_NN->gallon
+Both_NNP->PLO
+Both_NN->hunger
+Both_VB->post
+Both_NNP->Connecticut
+Both_JJ->intimate
+Both_VBP->face
+Both_NN->rupture
+Both_NN->allowance
+Both_NNP->Gelbart
+Both_NNP->Pennzoil
+Both_JJ->colonial
+Both_SQ->VBP NP VP
+Both_NN->bidding
+Both_NN->italian
+Both_JJ->revise
+Both_NNPS->Texans
+Both_NN->palladium
+Both_JJ->anti-monopoly
+Both_VBP->convert
+Both_NN->fifth
+Both_NP->NN NNS
+Both_NN->coating
+Both_NN->sportswear
+Both_NNP->Marlowe
+Both_NNP->Winnebago
+Both_JJ->useful
+Both_JJ->regulatory
+Both_NNP->Natick
+Both_NNP->Coniston
+Both_NNP->UniFirst
+Both_NN->fusion
+Both_NN->ethic
+Both_NN->cartridge
+Both_NN->shuttle
+Both_NN->scholar
+Both_NN->trustee
+Both_NN->utilization
+Both_JJ->complete
+Both_NN->stub
+Both_NNP->Ashurst
+Both_JJ->compatible
+Both_ADJP->$ CD JJ
+Both_ADVP->ADVP SBAR
+Both_NP->NN , NN CC NN
+Both_NN->trademark
+Both_VB->include
+Both_JJ->pharmaceutical
+Both_NNP->Gen-Probe
+Both_VB->step
+Both_NN->birth
+Both_PRN->, PP ,
+Both_NN->operator
+Both_JJ->full
+Both_NN->workstation
+Both_NNP->Thomson
+Both_NN->statute
+Both_NN->regulation
+Both_NNP->Hampshire
+Both_NN->memo
+Both_NNP->View
+Both_JJ->cyclical
+Both_PRN->, S ,
+Both_IN->despite
+Both_NNP->H.H.
+Both_NNS->employee
+Both_VBP->favor
+Both_JJ->dutch
+Both_VP->VB ADVP VP NP
+Both_NN->bailout
+Both_NN->worm
+Both_VB->convey
+Both_NN->rise
+Both_VB->talk
+Both_NN->principal
+Both_NNP->Adobe
+Both_NN->cable
+Both_NNP->Lincoln
+Both_JJ->leveraged
+Both_NN->detector
+Both_NNP->La
+Both_JJ->growth-stock
+Both_JJ->-rrb-
+Both_VBP->describe
+Both_NNP->Hooker
+Both_VBP->think
+Both_NNP->Bogart
+Both_JJ->labor-management
+Both_NNP->FADA
+Both_VP->VBN NP PP
+Both_NN->rake
+Both_VB->broaden
+Both_IN->though
+Both_NN->rescission
+Both_VB->charge
+Both_JJ->non-gm
+Both_NNP->Immunex
+Both_NNP->Sheinberg
+Both_NN->step
+Both_NNP->Chivas
+Both_NN->spire
+Both_NN->smoker
+Both_NNPS->Harbors
+Both_SBAR->IN `` S
+Both_NN->role
+Both_JJ->non-toxic
+Both_VB->match
+Both_NNP->BethForge
+Both_NN->commentary
+Both_VBP->agree
+Both_NNP->Jon
+Both_NN->radiation
+Both_NN->shock
+Both_NP->NNS POS
+Both_NNP->Edelman
+Both_NNP->Roderick
+Both_ADJP->JJR CC JJR
+Both_NN->discussion
+Both_JJ->unnecessary
+Both_VP->VB PRT NP PP
+Both_NNP->Joseph
+Both_NN->basket
+Both_VP->TO
+Both_NNP->A.P.
+Both_NNS->wages
+Both_JJ->continual
+Both_NNP->Alliance
+Both_NNP->Coopers
+Both_NN->neighborhood
+Both_NN->tonnage
+Both_CD->65
+Both_NNP->Corr
+Both_NN->dignity
+Both_JJ->durable
+Both_NNP->Kossuth
+Both_NNP->Road
+Both_VBN->put
+Both_NNP->Bertussi
+Both_NN->ozone
+Both_NNP->USI
+Both_NN->herbicide
+Both_JJ->anti-semitic
+Both_NNP->USX
+Both_NNP->Napa
+Both_JJ->universal
+Both_RB->rapidly
+Both_NP->NP , NP , NP CC NP
+Both_NNP->Manufacturers
+Both_NNP->Touche
+Both_NN->majority
+Both_NNS->conspire
+Both_NNP->Peladeau
+Both_NNP->Banc
+Both_NNPS->Americans
+Both_NNP->Brezhnevite
+Both_NNP->Conway
+Both_NN->preference
+Both_NNP->Valentine
+Both_NNP->Aspin
+Both_NN->performer
+Both_JJ->crude
+Both_NN->cyclosporine
+Both_NNP->Witter
+Both_NP->DT JJS
+Both_NNP->Quina
+Both_NNP->Museum
+Both_NNP->Thurber
+Both_NN->plunge
+Both_NNP->Asian
+Both_NN->rival
+Both_NNP->Nuovo
+Both_JJ->cubic
+Both_NN->ink
+Both_NN->sterling
+Both_NNP->Rock
+Both_NNP->Bare-Faced
+Both_NN->colony
+Both_NNP->Vista
+Both_S->ADJP
+Both_NNP->Westinghouse
+Both_NN->-lrb-
+Both_NNP->Blaine
+Both_NNP->Gnu-Emacs
+Both_NNP->Ehrlich
+Both_NNP->Eisenberg
+Both_ADJP->NN
+Both_NN->turnover
+Both_NNP->Price
+Both_NNP->Composite
+Both_NN->senator
+Both_NNP->Lorenzo
+Both_NN->trend
+Both_NN->contribution
+Both_NNP->Kellner
+Both_NNP->Peterson
+Both_NNP->Leval
+Both_VBP->account
+Both_NN->catastrophe
+Both_NN->beer
+Both_NNP->Citicorp
+Both_NNP->L.J.
+Both_NN->dealer
+Both_JJ->particular
+Both_NNP->Richter
+Both_VB->practice
+Both_NNP->Taco
+Both_NN->burglary
+Both_NNP->Said
+Both_JJ->favorite
+Both_NN->polyurethane
+Both_SYM->m$
+Both_JJ->electronic
+Both_FW->dire
+Both_NNP->Voting
+Both_NNP->Metamucil
+Both_NNP->Strieber
+Both_NNP->Beam
+Both_CD->1/8
+Both_NN->recovery
+Both_VBP->let
+Both_NNP->Nestle
+Both_NNP->Maxicare
+Both_NP->DT NNP NNPS
+Both_NN->legislator
+Both_VB->seize
+Both_NNP->Hyundai
+Both_NNP->Midland
+Both_NP->PRP$ ADJP NN
+Both_NNP->Alcan
+Both_NN->concession
+Both_NNP->Minuteman
+Both_PP->FW FW NP
+Both_NNP->Patterson
+Both_NN->arb
+Both_NN->structure
+Both_VP->VP , VP CC VP
+Both_NN->arm
+Both_NNP->Bostian
+Both_NNP->Comsat
+Both_NNP->Birmingham
+Both_JJ->canadian
+Both_NN->umbrella
+Both_VP->VBP NP : `` S
+Both_NN->hand
+Both_NNP->Alaska
+Both_NN->forecast
+Both_JJ->long-term
+Both_VB->live
+Both_QP->CD NN TO CD NN
+Both_NNP->Miller
+Both_NNP->Clean
+Both_NNP->Seagram
+Both_VB->combine
+Both_NN->capitalism
+Both_NNP->Gauguin
+Both_NN->mass
+Both_NNS->CDs
+Both_JJ->caffeine-free
+Both_NN->hemoglobin
+Both_VBP->claim
+Both_NN->parody
+Both_NNP->Location
+Both_NNP->Palmer
+Both_NN->stage
+Both_QP->JJR IN $ CD CD
+Both_JJ->naval
+Both_NN->theft
+Both_NN->selling
+Both_NNP->Opera
+Both_JJ->heavy
+Both_NN->brewing
+Both_NN->mud
+Both_NNP->Virgin
+Both_NN->integration
+Both_NNP->Yetnikoff
+Both_NP->NP PP S
+Both_NN->parking
+Both_NN->wheat
+Both_NNP->Curtis
+Both_NNP->Elizabeth
+Both_NN->print
+Both_NN->lending
+Both_NNP->Chris-Craft
+Both_NNP->Phelan
+Both_NN->filing
+Both_NNP->Lebanon
+Both_NN->sugar
+Both_NN->ticket
+Both_NNP->Dad
+Both_JJ->southern
+Both_NN->cargo
+Both_NNP->Webster
+Both_NN->newsletter
+Both_JJ->obvious
+Both_RB->effectively
+Both_NN->pitcher
+Both_NN->generation
+Both_NP->DT CD NNPS NNPS
+Both_NN->withdrawal
+Both_NNP->Langton
+Both_NN->layer
+Both_JJR->better
+Both_IN->off
+Both_NNP->Australia
+Both_NNP->Sumita
+Both_JJ->cold-storage
+Both_VB->export
+Both_NN->hurricane
+Both_VP->ADVP VBP SBAR
+Both_VBP->jump
+Both_NNP->Georgia-Pacific
+Both_NNP->Pepper
+Both_NNP->Steinkuehler
+Both_NNP->Z
+Both_NNP->Sugarman
+Both_NN->assumption
+Both_CD->70,000
+Both_RB->ever
+Both_NNP->Scott
+Both_NNP->Garcia
+Both_NN->composer
+Both_NNP->Tomash
+Both_NN->involvement
+Both_NN->judgment
+Both_NN->press
+Both_VB->apply
+Both_NNP->DEC
+Both_CD->0.60
+Both_CD->250
+Both_NP->VB NN NNS
+Both_NNP->Spielvogel
+Both_NN->platinum
+Both_CD->12.6
+Both_NN->coupon
+Both_VB->spin
+Both_NNP->Jeffrey
+Both_NN->refund
+Both_NN->reflection
+Both_VBP->befall
+Both_JJ->pet
+Both_NNP->Esselte
+Both_JJ->refillable
+Both_NN->process
+Both_NNP->Bloomingdale
+Both_NNP->JMB
+Both_NNP->Mirage
+Both_CD->200,000
+Both_NNP->DWG
+Both_NN->institution
+Both_JJ->pro
+Both_NNP->Kurzweil
+Both_NNP->Scorpio
+Both_NN->display
+Both_NN->c$
+Both_NN->depression
+Both_CONJP->RB RB IN
+Both_NNP->Gotlieb
+Both_NNP->Harris
+Both_NN->subpoena
+Both_NNP->Odeon
+Both_NNP->Skinner
+Both_NN->elevator
+Both_NNP->Biny
+Both_NN->range
+Both_NN->cassette
+Both_NNP->Paramount
+Both_NN->visit
+Both_NNP->Buckley
+Both_NNP->Conn
+Both_NN->expert
+Both_NP->DT NNS NN
+Both_NP->RB NNP NNP NNP NNP
+Both_NN->annuity
+Both_NNP->Fossey
+Both_NN->faction
+Both_NN->cholesterol
+Both_NN->motel
+Both_NN->policyholder
+Both_NN->interpretation
+Both_NN->sky
+Both_VB->veto
+Both_NNP->Inco
+Both_NN->transcript
+Both_VP->VB S PP S
+Both_NN->piece
+Both_NNP->Beefeater
+Both_NNP->Gaubert
+Both_NNP->Geduld
+Both_NN->mistrial
+Both_NN->middleman
+Both_NNP->Las
+Both_CD->1906
+Both_NN->headline
+Both_NN->tv
+Both_NP->DT JJ , JJ NN
+Both_NNP->Hilton
+Both_NNP->Christmas
+Both_CD->six
+Both_NNP->CMS
+Both_RB->certainly
+Both_NNP->Marks
+Both_NNP->Flynn
+Both_NN->cost.The
+Both_NN->bus
+Both_NN->dispute
+Both_NN->superconductor
+Both_FW->voir
+Both_NN->bug
+Both_NN->homeland
+Both_NNP->Lufthansa
+Both_NN->conversation
+Both_NNP->DDB
+Both_NN->daughter
+Both_NNP->EMS
+Both_NN->equivalent
+Both_NNP->Fraser
+Both_NN->charity
+Both_VB->happen
+Both_FW->kanji
+Both_NNP->Datapoint
+Both_CD->81
+Both_JJ->few
+Both_NNP->Nahas
+Both_NNP->Iverson
+Both_CD->400
+Both_NN->password
+Both_NNP->Meyer
+Both_NNP->Hydro-Quebec
+Both_VB->rename
+Both_QP->CD NN TO $ CD CD
+Both_JJ->full-year
+Both_VB->forget
+Both_JJ->adequate
+Both_JJ->extensive
+Both_NN->stereo
+Both_NP->ADJP NN NN
+Both_NN->chord
+Both_PP->IN
+Both_NN->circle
+Both_NN->furrier
+Both_NNP->Corn
+Both_NN->bread
+Both_CD->1,000
+Both_VB->overemphasize
+Both_NNP->Pittston
+Both_VB->enter
+Both_NNP->Holding
+Both_NN->activity
+Both_NN->bushel
+Both_VB->c$
+Both_RB->really
+Both_NNP->Labor
+Both_NN->attendant
+Both_NNP->Orange
+Both_CD->4.4
+Both_NNP->Foster
+Both_NN->accounting
+Both_NN->advantage
+Both_VB->lay
+Both_NNP->Lambert
+Both_NNP->Faberge
+Both_NNP->Fort
+Both_RB->yet
+Both_JJ->anti-union
+Both_VBP->feel
+Both_NNP->Labatt
+Both_NN->safety
+Both_NNP->Robins
+Both_NNP->Woman
+Both_JJ->developing-country
+Both_JJ->natural
+Both_S->S : S
+Both_NNP->Wheeler
+Both_NN->everything
+Both_CD->135
+Both_NP->NN NNP CC NNP NNP
+Both_NN->press-forge
+Both_NNP->Judges
+Both_NNP->Pepperidge
+Both_IN->although
+Both_NNP->McDuffie
+Both_NNP->Eskenazi
+Both_JJ->jittery
+Both_VBP->join
+Both_NNP->Wald
+Both_NN->manufacturer
+Both_NN->broadcaster
+Both_NNP->Era
+Both_NNP->News
+Both_NNS->Democrats
+Both_JJ->cold
+Both_NN->music
+Both_NN->grain
+Both_NNP->Stoll
+Both_NN->manual
+Both_NN->responsibility
+Both_NNPS->Libyans
+Both_QP->IN $ CD
+Both_NNP->Shultz
+Both_NN->tree
+Both_VP->VP CC PRN `` VP
+Both_NNP->Cuba
+Both_NNP->Meridian
+Both_NNP->Capcom
+Both_NNP->PaineWebber
+Both_QP->JJR IN NN
+Both_NNP->IAFP
+Both_NNP->Pinnacle
+Both_NN->shatter
+Both_NNP->Watts
+Both_VB->insure
+Both_JJ->marine
+Both_JJ->food-importing
+Both_NN->survivor
+Both_NN->compound
+Both_NN->carry-forward
+Both_JJ->after-tax
+Both_NNP->Nazer
+Both_NNP->Intermoda
+Both_NNP->Backer
+Both_NNP->Gonzalez
+Both_NNP->Bryant
+Both_JJ->afraid
+Both_NNP->Fernandez
+Both_NNP->Vermont-Slauson
+Both_NN->entertainment
+Both_NNP->Bumiputra
+Both_S->RB VP
+Both_CD->7.97
+Both_SBAR->SBAR CC SBAR
+Both_NNP->Transmission
+Both_JJ->artistic
+Both_NNP->OPEC
+Both_VB->bring
+Both_NN->education
+Both_VB->tender
+Both_JJ->solid
+Both_NNP->Burnham
+Both_NN->factory
+Both_NNP->Indonesia
+Both_VBD->cost
+Both_S->PP , SBAR , NP VP
+Both_NNP->Telos
+Both_VB->disclose
+Both_NP->PRP$ JJ NN NN
+Both_CD->3\xc2\xa01/8
+Both_JJ->giant
+Both_JJ->recent
+Both_NNP->Bakker
+Both_VBP->offer
+Both_NNP->Baker
+Both_JJ->b-2
+Both_NN->nerve
+Both_CD->95
+Both_RB->again
+Both_VP->VBG PP
+Both_JJR->simpler
+Both_NN->mail
+Both_NNP->Delaware
+Both_NNP->Bakes
+Both_NN->competence
+Both_VB->run
+Both_NN->anxiety
+Both_NN->pesticide
+Both_JJ->parental-consent
+Both_NNP->Saab
+Both_CD->1.1
+Both_NN->oil-service
+Both_NNP->Appleyard
+Both_VBN->accepted
+Both_VB->coordinate
+Both_NNP->Shevardnadze
+Both_VP->VB PP , ADVP
+Both_JJ->secure
+Both_VBP->look
+Both_NNP->Lesk
+Both_S->SBAR NP VP
+Both_NP->NP NN S
+Both_S->S : PP , NP VP
+Both_VBN->interested
+Both_VB->move
+Both_PP->PP CC ADVP PP
+Both_VB->borrow
+Both_NNP->Digest
+Both_NN->actor
+Both_NN->witness
+Both_NP->DT NNP NN NN
+Both_NN->dependence
+Both_NP->JJ CD
+Both_NN->cooperation
+Both_NNP->Steinhardt
+Both_NNP->Violetta
+Both_NNP->Richard
+Both_NNP->Hut
+Both_NN->african
+Both_PRN->, INTJ ,
+Both_NP->DT NNP CD NN
+Both_CD->1.29
+Both_NN->arrangement
+Both_NNP->Far
+Both_NN->downtown
+Both_CD->47
+Both_NNP->Hees
+Both_VBP->seek
+Both_NNP->World
+Both_NNP->MGM
+Both_VP->VB PRT
+Both_CD->45
+Both_S->S ,  NP VP
+Both_NN->hormone
+Both_NNP->Eggs
+Both_VB->leave
+Both_NNP->Transportation
+Both_NNP->Ekco
+Both_FW->a
+Both_VP->VP CC `` VP
+Both_NNP->Transit
+Both_CD->9.625
+Both_VP->VBZ NP PP
+Both_NNP->Toussie
+Both_NN->mountain-bike
+Both_VB->find
+Both_NNP->Bill
+Both_NNP->Ghana
+Both_NN->allegation
+Both_NN->patrol
+Both_NN->training
+Both_NNP->Tony
+Both_NN->care
+Both_NNP->Addison
+Both_JJ->hostile
+Both_RB->regularly
+Both_RB->always
+Both_NN->capture
+Both_NNP->Pioneer
+Both_NN->oncogene
+Both_NN->force
+Both_JJ->complex
+Both_NN->application
+Both_NN->borrowing
+Both_NN->Series
+Both_NNP->Michael
+Both_NNP->UAW
+Both_NNP->Reserve
+Both_NNP->Interior
+Both_JJ->true
+Both_NN->fraud
+Both_VP->VP CC VP VBP NP NP
+Both_NN->candy
+Both_NNP->Little
+Both_NNP->Edwards
+Both_NNP->Toseland
+Both_NN->song
+Both_RB->politically
+Both_VB->destroy
+Both_JJ->extra
+Both_NNP->Bell
+Both_VBP->trust
+Both_NNP->Tampa
+Both_CD->7.81
+Both_ADJP->$ CD
+Both_NNP->Anheuser
+Both_NN->technology
+Both_JJ->circular
+Both_JJ->anti-government
+Both_NN->guy
+Both_NNP->Krutchensky
+Both_NNP->Cleveland
+Both_NN->attack
+Both_JJ->communist
+Both_NNP->Namibia
+Both_NNP->Wells
+Both_VBP->lack
+Both_NN->overflow
+Both_VBP->provide
+Both_NNP->Laurel
+Both_NN->portrayal
+Both_JJ->further
+Both_NNP->Hoechst
+Both_NN->milk
+Both_NN->prison
+Both_NN->mill
+Both_NN->trip
+Both_NNP->Intel
+Both_NNP->Kravis
+Both_NN->wastewater
+Both_NN->policewoman
+Both_NNP->Kodak
+Both_NNP->Byrd
+Both_NNP->Decker
+Both_NNP->Hitachi
+Both_VBP->ask
+Both_RB->anywhere
+Both_NNP->Earth
+Both_VBP->mean
+Both_NN->intimidation
+Both_NNP->Chandler
+Both_JJR->greater
+Both_VB->agree
+Both_RP->open
+Both_VB->contribute
+Both_NNP->Valhi
+Both_NP->DT JJ NN NN NN
+Both_NNP->Oakes
+Both_NNP->SunGard
+Both_NN->flaw
+Both_NN->publisher
+Both_NNP->Rose
+Both_NNP->RDF
+Both_NN->coalition
+Both_NNP->Arkansas
+Both_JJ->careful
+Both_CD->2,000
+Both_NN->lung
+Both_NNP->Sante
+Both_NN->lithograph
+Both_NN->border
+Both_NNPS->Maronites
+Both_NN->fall
+Both_JJ->key
+Both_JJ->specific
+Both_PRP->itself
+Both_NNP->Aquino
+Both_JJ->creative
+Both_PP->IN SBAR
+Both_IN->throughout
+Both_NN->queen
+Both_JJ->mere
+Both_NNP->Ross
+Both_NNS->licens
+Both_NNP->Crusader
+Both_NNP->Uniroyal
+Both_NN->cable-television
+Both_JJ->unfriendly
+Both_NNP->WCRS
+Both_NN->employer
+Both_NN->collectible
+Both_NNP->Bussieres
+Both_NN->socialism
+Both_JJR->bigger
+Both_NN->restructure
+Both_JJ->male-sterile
+Both_NNP->Fujisawa
+Both_VB->sign
+Both_VB->settle
+Both_JJ->dilutive
+Both_NN->light
+Both_NNP->Treaty
+Both_NNP->Specter
+Both_VBP->call
+Both_NNP->GNP
+Both_NNP->Hawaii
+Both_NN->carpet
+Both_NN->escrow
+Both_VB->count
+Both_NNP->Coastal
+Both_VP->VB ADJP NP
+Both_RB->simply
+Both_NNP->Stone
+Both_NN->pressure
+Both_NNP->Schering-Plough
+Both_NN->hat
+Both_NNP->Gorky
+Both_NNP->Interstate
+Both_RB->potentially
+Both_NNP->Unocal
+Both_NN->notification
+Both_NNP->Sierra
+Both_NN->computing
+Both_NN->aluminum
+Both_NNP->Defense
+Both_VBP->reflect
+Both_JJ->dilute
+Both_NN->inquiry
+Both_JJ->incline
+Both_JJS->best
+Both_RB->fully
+Both_NN->knight
+Both_NN->employment
+Both_NNP->Connaught
+Both_NN->cosmetic
+Both_NNP->Durkin
+Both_NN->contact
+Both_NNP->Iran-Contra
+Both_VB->hope
+Both_NNP->Sidley
+Both_NNP->Glaxo
+Both_NNP->Veslefrikk
+Both_NNP->Renault
+Both_NN->bust
+Both_NNP->Pignatelli
+Both_NNP->Spencer
+Both_NN->bureaucracy
+Both_IN->behind
+Both_NNP->Falconbridge
+Both_NN->stadium
+Both_NN->household
+Both_NN->rock
+Both_NN->burden
+Both_NN->contamination
+Both_NNP->Management
+Both_NN->hacker
+Both_NNP->Krasnoyarsk
+Both_CD->eight
+Both_NN->liquor
+Both_VB->cancel
+Both_JJ->human
+Both_NNP->Realty
+Both_NP->DT NN QP
+Both_NNP->Reinhold
+Both_NNP->HBO
+Both_NP->UCP JJ NN
+Both_NNP->Acquisition
+Both_VP->VBN NP
+Both_VB->commit
+Both_NNP->Peabody
+Both_PP->ADVP IN NP
+Both_CD->750
+Both_VP->VP CC NP
+Both_NNP->Testa
+Both_CD->7.93
+Both_NNP->Mervin
+Both_NNP->James
+Both_JJ->troubled
+Both_NNP->Guard
+Both_NNP->Crossland
+Both_NNP->Stoltzman
+Both_NN->ice
+Both_NNP->CD
+Both_JJ->overall
+Both_NNP->Hamilton
+Both_NNP->Kaddurah-Daouk
+Both_NN->sedan
+Both_NNP->tie
+Both_NNP->Stevric
+Both_NN->headquarters
+Both_NN->individual
+Both_NNP->Straszheim
+Both_NNP->Ryder
+Both_NN->transfer
+Both_NN->procedure
+Both_NN->catalyst
+Both_NN->caller
+Both_NNP->Vietnam
+Both_CD->6.3
+Both_VB->accrue
+Both_NN->rebel
+Both_NN->turmoil
+Both_RB->away
+Both_RB->typically
+Both_VP->VBP RB ADVP VP
+Both_NN->dome
+Both_NN->assessment
+Both_NNP->Carl
+Both_CD->323
+Both_NNP->Garratt
+Both_NN->metal
+Both_NNP->"OKicki"
+Both_NNP->Varity
+Both_NN->close
+Both_NNP->Warsaw
+Both_NNP->Shaffer
+Both_NN->petrochemical
+Both_NNP->Miss
+Both_NN->snack-food
+Both_NNP->KGB
+Both_NNP->GDP
+Both_VP->VBP PRT NP PP PP
